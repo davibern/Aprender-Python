@@ -2,9 +2,9 @@
 En Python hay varios tipos de datos. Estos datos elementales que veremos a continuación se pueden convertir (castear)
 a otro tipo según necesidad.
 
-Los datos en Python son de tipo dinámico, es decir, no es necesario declarar su tipo antes en su declaración.
+Los datos en Python son de tipo dinámico, es decir, no es necesario declarar el tipo al declararse.
 
-Cuando se declara un tipo y se le asigna un valor, Python infiere su tipo automáticamente.
+Cuando se declara un variable y se le asigna un valor, Python infiere su tipo automáticamente.
 """
 
 # Tipo NÚMERO (Number)
