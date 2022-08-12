@@ -50,3 +50,15 @@ False   # ¿Está la puerta abierta? Si no lo está es falso.
 # Como en las matemáticas, set en Python almacena valores únicos.
 # El orden en Set no es importante, sino mantener una integridad de valores sin duplicados.
 {2, 3, 4, 5}
+
+# Comprobrar el tipo de DATO
+# Para comprobar un tipo de datos se usa la función type() y el valor o variable
+type(3) # Tipo Integer
+type(3.222) # Tipo Float
+type(True) # Tipo Boolean
+type("Good morning, Mr. Marshall") # Tipo String
+type(2 + 3j) # Tipo Complex
+type([1, 3, 4]) # Tipo List
+type({'name' : 'Ironman'}) # Tipo Dict
+type((2, 3, 4)) # Tipo Tuple
+type({93.3, 33.23, 36.3}) # Tipo Set
