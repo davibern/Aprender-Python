@@ -4,7 +4,7 @@
 
 """
 Esto es una multilínea de texto
-comentad en varios saltos de línea.
+comentados en varios saltos de línea.
 
 Como puedes ver no es necesario añadir por línea la almohadilla (#)
 """
