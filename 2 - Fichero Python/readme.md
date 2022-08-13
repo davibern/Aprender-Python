@@ -40,4 +40,4 @@ Puedes probar descargando el fichero de pruebas que he preparado.
 
 [Descargar practicar_fichero.py]
 
-[Descargar practicar_fichero.py]:(practicar_fichero.py)
+[Descargar practicar_fichero.py]: practicar_fichero.py
