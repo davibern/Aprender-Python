@@ -35,3 +35,9 @@ Si prefieres ejecutar tu fichero Python desde la terminal tienes que llamar al b
 Si estás ejecutando el fichero en el terminal desde el mismo directorio te bastará con indicar el nombre, pero si estás en otro directorio habrá que añadir su referencia absoluta.
 
 ![Ejecución fichero Python desde terminal](/99%20-%20Imagenes/ejecutar_fichero_terminal.png)
+
+Puedes probar descargando el fichero de pruebas que he preparado.
+
+[Descargar practicar_fichero.py]
+
+[Descargar practicar_fichero.py]:(practicar_fichero.py)
