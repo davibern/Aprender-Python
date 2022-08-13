@@ -37,4 +37,4 @@ Puedes ver cómo queda en el fichero de prácticas llamado [practicar_comentario
 
 Recuerda que si lo ejecutas en el intérprete de Python, éste no te va a devolver nada, porque son comentarios 😉
 
-[practicar_comentarios.py]: './2%-%Comentarios/practicar_comentarios.py'
+[practicar_comentarios.py]: practicar_comentarios.py
