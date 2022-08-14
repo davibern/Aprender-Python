@@ -29,6 +29,8 @@ Existen varios tipos de operadores.
 | Comparación | ==      | Devuelve True si ambos operadores son iguales |
 | Desigualdad          | !=       | Devuelve True si ambos operadores son diferentes     |
 
+Si no cumple la condición entonces es Falso.
+
 ## Operadores de Asignación
 
 | Operador       | Símbolo | Descripción                                                |
@@ -49,6 +51,8 @@ Existen varios tipos de operadores.
 | Y           | and       | Devuelve True si ambos operadores son True                               |
 | O          | or       | Devuelve True si uno de los operadores son True                            |
 | No | not       | Devuelve True si ninguno operadores son True                   |
+
+Si no cumple la condición entonces es False.
 
 # ¡Y hay más!
 
