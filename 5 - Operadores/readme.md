@@ -54,6 +54,47 @@ Si no cumple la condición entonces es Falso.
 
 Si no cumple la condición entonces es False.
 
+### Tablas de la Verdad
+
+Los operadores lógicos nos llevan irremediablente (y muy necesariamente) a conocer la **Tabla de la Verdad**.
+
+Esto, que puede sonar muy místico, en realidad es de lo *más importante que puedas aprender para poder programar*, porque toda lógica de un programa se basará, sí o sí, en saber el resultado de una condición.
+
+Dominar las condicionales es imprescindible, y no es ya un tema para Python, sino para cualquier lenguaje.
+
+Yo voy a ponerte un resumen de todo lo que hay escrito de las tablas de la verdad, pero tienes en la [wikipedia](https://es.wikipedia.org/wiki/Tabla_de_verdad) información mucho más detallada.
+
+**Operador AND**
+
+El operador AND, que significa Y, funciona de tal forma que necesita que todas las condiciones sean verdaderas, si una no lo es, entonces el resultado es falso.
+
+* True and True -> True
+* True and False -> False
+* False and True -> False
+* False and Flse -> False
+
+Como vemos, sólo la primera condición es verdadera, porque siempre que tengamos una condición falsa, esta será falsa. El AND ('Y') es una condición muy restrictiva.
+
+**Operador OR**
+
+El operador OR, que signfica O, funciona de tal forma que necesita sólo que una de las dos condiciones sea verdadera, por lo tanto, es más laxa, porque permite más opciones.
+
+* True or True -> True
+* True or False -> True
+* False or True -> True
+* False or False -> False
+
+**Operador XOR**
+
+Esta se da menos, se llama **OR Exclusivo**, es decir, que implementa el O únicamente. Me explico, una salida verdadera resulta si una, y sólo una de las entradas a la puerta es verdadera. Si ambas entradas son falsas, o ambas son verdaderas, resulta en una salida falsa. Sé que cuesta un poco de entender, pero piensa que necesitas que una sea falta y otra verdadera para devolver verdadero, si ambas son iguales, es falso.
+
+El operador en Python es '^'.
+
+* True ^ True -> False
+* True ^ False -> True
+* False ^ True -> True
+* False ^ False -> False
+
 # ¡Y hay más!
 
 Hay varios más, pero para empezar creo que no está mal, hay que ir poco a poco.
