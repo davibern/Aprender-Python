@@ -76,3 +76,33 @@ Una vez instalado tendrás dos versiones, la 2.9 y la 3.10, podrás comprobar su
 ## Python en Mac
 
 Para Mac la instalación es similar que en Windows, puedes descargarte los binarios desde la web y elegir versión o usar homebrew.
+
+# Shell de Python
+
+Una vez instalado ya podríamos trabajar directamente con Python usando nuestro Terminal, con sólo ejecutar ```python```.
+
+![Shell de Python](/99%20-%20Imagenes/shell_python_1.png)
+
+Recuerda que desde el terminal sólo tienes que ejecutar **python** y automáticamente se mostrará la Shell de Python.
+
+Una vez dentro ya puedes realizar operaciones, como por ejemplo una suma.
+
+> 255 + 300
+
+![Sumar en la shell de python](/99%20-%20Imagenes/shell_python_2.png)
+
+También podemos mostrar texto.
+
+> "hola python"
+
+![Mostrar texto en la shell de python](/99%20-%20Imagenes/shell_python_3.png)
+
+También podemos mostrar una comparativa y su salida, por ejemplo:
+
+> 2 > 1
+
+![Mostrar compartiva de operadores en la shell de python](/99%20-%20Imagenes/shell_python_4.png)
+
+Para salir de la shell de Pyton basta con escribir ```quit()```.
+
+![Salir de la shell de python](/99%20-%20Imagenes/shell_python_5.png)
