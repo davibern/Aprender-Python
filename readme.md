@@ -42,4 +42,5 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 2        | [Fichero Python](/2%20-%20Fichero%20Python/readme.md)        | Cómo crear el primer fichero Python y cómo ejecutarlo         |
 | 3        | [Comentarios](/3%20-%20Comentarios/readme.md)           | Insertar comentarios                                          |
 | 4        | [Tipos de Datos](/4%20-%20Tipos%20de%20datos/readme.md)        | Una breve explicación de los tipos de datos                   |
+| 5        | [Operadores](/5%20-%20Operadores/readme.md)                    | Descripción de operadores básicos |
 | 99       | Imagenes              | Directorio para almacenar imágenes (no le eches mucha cuenta) |
