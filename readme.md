@@ -43,4 +43,5 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 3        | [Comentarios](/3%20-%20Comentarios/readme.md)           | Insertar comentarios                                          |
 | 4        | [Tipos de Datos](/4%20-%20Tipos%20de%20datos/readme.md)        | Una breve explicación de los tipos de datos                   |
 | 5        | [Operadores](/5%20-%20Operadores/readme.md)                    | Descripción de operadores básicos |
+| 6        | [Biblioteca Estándar (Built-in)](/6%20-%20Biblioteca%20Est%C3%A1ndar/readme.md)                    | Uso de las funciones básicas incorporadas a Python |
 | 99       | Imagenes              | Directorio para almacenar imágenes (no le eches mucha cuenta) |
