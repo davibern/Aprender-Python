@@ -1,4 +1,4 @@
-# Biblioteca Estándar (Buil-in)
+# Biblioteca Estándar (Built-in)
 
 Existen muchísimas funciones que ya vienen por defecto en Python listas para usar. Estas funciones se conocen como **Buil-in Functions**.
 
