@@ -22,7 +22,7 @@ A continuación dejo algunos ejemplos de funciones preinstaladas y su ejecución
 
 ### abs()
 
-Devuelve el valor absoluto de un número. Su argumento debe ser un número entero, decimal u un objeto que implemente la propia función. Si por ejemplo indicas un número complejo, se devolverá su magnitud.
+Devuelve el valor absoluto de un número. Su argumento debe ser un número entero, decimal o un objeto que implemente la propia función. Si por ejemplo indicas un número complejo, se devolverá su magnitud.
 
 ![Built-in abs()](/99%20-%20Imagenes/buil-in_abs.png)
 
