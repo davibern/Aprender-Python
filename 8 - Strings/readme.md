@@ -465,3 +465,11 @@ print(text.startswith('fou')) # Devuelve True
 😍😲 Si has llegado hasta aquí leyendo todo, tengo que darte mi más sincera enhorabuena, porque no todo el mundo tiene capacidad ni fuerza de voluntad para aguantar tremenda chapa. 😲😍
 
 <span style="color:orange">**¡Eres increíble!**</span>
+
+## ¡A practicar!
+
+Y después de leer tanto y asimilar conceptos, lo siguiente es ponerlos en [práctica](/8%20-%20Strings/ejercicios_string.md).
+
+***
+
+⬅️ [Clase anterior](/7%20-%20Variables/readme.md) | [Clase siguiente]() ➡️
