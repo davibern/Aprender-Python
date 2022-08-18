@@ -24,6 +24,8 @@ Es una colección de uno o más caracteres que se declaran con comillas simples 
 >
 >"Santa Claus"
 
+Tienes más información en el curso específico de [Strings](/8%20-%20Strings/readme.md).
+
 ## Tipo BOOLEAN (Boolean)
 
 Son tipos que sólo admiten dos valores: verdadero o falso (0, 1)
