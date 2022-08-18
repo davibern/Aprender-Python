@@ -106,3 +106,7 @@ También podemos mostrar una comparativa y su salida, por ejemplo:
 Para salir de la shell de Pyton basta con escribir ```quit()```.
 
 ![Salir de la shell de python](/99%20-%20Imagenes/shell_python_5.png)
+
+***
+
+⬅️ [Inicio](/readme.md) | [Clase siguiente](/1%20-%20Entorno%20de%20desarrollo/readme.md) ➡️

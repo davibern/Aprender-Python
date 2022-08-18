@@ -47,3 +47,7 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 7        | [Variables](/7%20-%20Variables/readme.md)           | Crear variables, instanciarlas y tiparlas                                         |
 | 8        | [Strings](/8%20-%20Strings/readme.md)           | Aprender a trabajar con Strings                                         |
 | 99       | Imagenes              | Directorio para almacenar imágenes (no le eches mucha cuenta) |
+
+***
+
+➡️ Empezamos con la [instalación](/0%20-%20Instalaci%C3%B3n/readme.md).
