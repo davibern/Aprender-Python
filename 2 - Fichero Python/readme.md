@@ -41,3 +41,7 @@ Puedes probar descargando el fichero de pruebas que he preparado.
 [Descargar practicar_fichero.py]
 
 [Descargar practicar_fichero.py]: practicar_fichero.py
+
+***
+
+⬅️ [Clase anterior](/1%20-%20Entorno%20de%20desarrollo/readme.md) | [Clase siguiente](/3%20-%20Comentarios/readme.md) ➡️

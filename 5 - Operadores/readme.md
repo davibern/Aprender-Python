@@ -109,3 +109,7 @@ Igualmente te dejo aquí dos enlaces por si quieres tener más detalles o no qui
 # Toca practicar
 
 Ahora toca practicar lo que acabamos de leer. Te dejo por aquí el enlace al los [ejercicios](/5%20-%20Operadores/ejercicios_operadores.md), ¡al lío!
+
+***
+
+⬅️ [Clase anterior](/4%20-%20Tipos%20de%20datos/readme.md) | [Clase siguiente](/6%20-%20Biblioteca%20Est%C3%A1ndar/readme.md) ➡️

@@ -49,3 +49,7 @@ También te recomiendo instalar [Error Lens], porque te ayudará a detectar erro
 Y con esto deberías de tener todo lo suficiente para empezar a trabajar con Python en tu sistema operativo.
 
 **¡A por ello!** 💪
+
+***
+
+⬅️ [Clase anterior](/0%20-%20Instalaci%C3%B3n/readme.md) | [Clase siguiente](/2%20-%20Fichero%20Python/readme.md) ➡️

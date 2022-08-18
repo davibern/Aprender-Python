@@ -105,3 +105,7 @@ O incluso para nosotros mismos, para que más adelante, recordemos el porqué lo
 ## A practicar
 
 Ahora llega el momento de [practicar lo aprendido](/7%20-%20Variables/ejercicios_variables.md), ¡vamos a ello!
+
+***
+
+⬅️ [Clase anterior](/6%20-%20Biblioteca%20Est%C3%A1ndar/readme.md) | [Clase siguiente](/8%20-%20Strings/readme.md) ➡️

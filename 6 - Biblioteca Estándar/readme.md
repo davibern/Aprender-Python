@@ -83,3 +83,7 @@ He dejado unos 8 ejemplos de 70 que tiene la biblioteca, pero para hacernos una 
 Como en el resto de temas, os dejo el acceso a los ejercicios para practicar un poco lo que hemos visto, habrá alguna que otra función que no he explicado para que te adentres en la ayuda 😉
 
 [Ejercicios del tema](/6%20-%20Biblioteca%20Est%C3%A1ndar/ejercicios_biblioteca_estandar.md).
+
+***
+
+⬅️ [Clase anterior](/5%20-%20Operadores/readme.md) | [Clase siguiente](/7%20-%20Variables/readme.md) ➡️

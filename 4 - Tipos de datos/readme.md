@@ -112,3 +112,7 @@ La solución está en este otro enlace: [solucion ejercicios de datos].
 **Intenta hacerlos sin mirar antes 🕵🏻‍♂️
 
 [solucion ejercicios de datos]: solucion_ejercicios_tipos_de_datos.py
+
+***
+
+⬅️ [Clase anterior](/3%20-%20Comentarios/readme.md) | [Clase siguiente](/5%20-%20Operadores/readme.md) ➡️
