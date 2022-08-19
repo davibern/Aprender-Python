@@ -46,7 +46,7 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 6        | [Biblioteca Estándar (Built-in)](/6%20-%20Biblioteca%20Est%C3%A1ndar/readme.md)                    | Uso de las funciones básicas incorporadas a Python |
 | 7        | [Variables](/7%20-%20Variables/readme.md)           | Crear variables, instanciarlas y tiparlas                                         |
 | 8        | [Strings](/8%20-%20Strings/readme.md)           | Aprender a trabajar con Strings                                         |
-| 9        | [Strings](/9%20-%20Listas/readme.md)           | Aprender a trabajar con Listas                                         |
+| 9        | [Listas](/9%20-%20Listas/readme.md)           | Aprender a trabajar con Listas                                         |
 | 99       | Imagenes              | Directorio para almacenar imágenes (no le eches mucha cuenta) |
 
 ***
