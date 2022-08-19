@@ -472,4 +472,4 @@ Y después de leer tanto y asimilar conceptos, lo siguiente es ponerlos en [prá
 
 ***
 
-⬅️ [Clase anterior](/7%20-%20Variables/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/7%20-%20Variables/readme.md) | [Clase siguiente](/9%20-%20Listas/readme.md) ➡️
