@@ -24,7 +24,7 @@ Es una colección de uno o más caracteres que se declaran con comillas simples 
 >
 >"Santa Claus"
 
-Tienes más información en el curso específico de [Strings](/8%20-%20Strings/readme.md).
+Tienes más información en la clase específico de [Strings](/8%20-%20Strings/readme.md).
 
 ## Tipo BOOLEAN (Boolean)
 
@@ -44,6 +44,8 @@ Si quisiéramos compararlos podría ser una matriz en Javascript.
 ['Sun', 'Venus', 'Mars', 'Jupiter'] # Lista que contiene elementos del mismo tipo (strings)
 ['Football', 'Rugby', 'Squash', 1, 3, False] # Lista que contiene elementos de diferentes tipos
 ```
+
+Tienes más información en la clase específico de [Strings](/9%20-%20Listas/readme.md).
 
 ## Tipo DICCIONARIO (Dictionary)
 
