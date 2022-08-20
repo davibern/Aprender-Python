@@ -47,6 +47,7 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 7        | [Variables](/7%20-%20Variables/readme.md)           | Crear variables, instanciarlas y tiparlas                                         |
 | 8        | [Strings](/8%20-%20Strings/readme.md)           | Aprender a trabajar con Strings                                         |
 | 9        | [Listas](/9%20-%20Listas/readme.md)           | Aprender a trabajar con Listas                                         |
+| 10        | [Tuplas](/10%20-%20Tuplas/readme.md)           | Aprender a trabajar con Tuplas                                         |
 | 99       | Imagenes              | Directorio para almacenar imágenes (no le eches mucha cuenta) |
 
 ***

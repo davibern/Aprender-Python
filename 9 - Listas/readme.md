@@ -335,4 +335,4 @@ Vamos a los [ejercicios](/9%20-%20Listas/ejercicios_lista.md).
 
 ***
 
-⬅️ [Clase anterior](/8%20-%20Strings/) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/8%20-%20Strings/) | [Clase siguiente](/10%20-%20Tuplas/readme.md) ➡️
