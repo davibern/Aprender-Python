@@ -196,6 +196,8 @@ del tupla
 
 Aún así, ¡felicidades!
 
+Y ahora a [practicar](/10_Tuplas/ejercicios_tuples.md).
+
 ***
 
-Y ahora a [practicar](/10_Tuplas/ejercicios_tuples.md).
+⬅️ [Clase anterior](/09_Listas/readme.md) | [Clase siguiente]() ➡️

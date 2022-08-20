@@ -37,19 +37,19 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 
 | Capítulo | Tema                  | Descripción                                                   |
 |----------|-----------------------|---------------------------------------------------------------|
-| 0        | [Instalación](/0%20-%20Instalaci%C3%B3n/readme.md)           | Instalar Python en su sistema                                 |
-| 1        | [Entorno de Desarrollo](/1%20-%20Entorno%20de%20desarrollo/readme.md) | Qué entorno usar y cómo configurarlo (vscode)                 |
-| 2        | [Fichero Python](/2%20-%20Fichero%20Python/readme.md)        | Cómo crear el primer fichero Python y cómo ejecutarlo         |
-| 3        | [Comentarios](/3%20-%20Comentarios/readme.md)           | Insertar comentarios                                          |
-| 4        | [Tipos de Datos](/4%20-%20Tipos%20de%20datos/readme.md)        | Una breve explicación de los tipos de datos                   |
-| 5        | [Operadores](/5%20-%20Operadores/readme.md)                    | Descripción de operadores básicos |
-| 6        | [Biblioteca Estándar (Built-in)](/6%20-%20Biblioteca%20Est%C3%A1ndar/readme.md)                    | Uso de las funciones básicas incorporadas a Python |
-| 7        | [Variables](/7%20-%20Variables/readme.md)           | Crear variables, instanciarlas y tiparlas                                         |
-| 8        | [Strings](/8%20-%20Strings/readme.md)           | Aprender a trabajar con Strings                                         |
-| 9        | [Listas](/9%20-%20Listas/readme.md)           | Aprender a trabajar con Listas                                         |
-| 10        | [Tuplas](/10%20-%20Tuplas/readme.md)           | Aprender a trabajar con Tuplas                                         |
+| 0        | [Instalación](/00_Instalaci%C3%B3n/readme.md)           | Instalar Python en su sistema                                 |
+| 1        | [Entorno de Desarrollo](/01_Entorno%20de%20desarrollo/readme.md) | Qué entorno usar y cómo configurarlo (vscode)                 |
+| 2        | [Fichero Python](/02_Fichero%20Python/readme.md)        | Cómo crear el primer fichero Python y cómo ejecutarlo         |
+| 3        | [Comentarios](/03_Comentarios/readme.md)           | Insertar comentarios                                          |
+| 4        | [Tipos de Datos](/04_Tipos%20de%20datos/readme.md)        | Una breve explicación de los tipos de datos                   |
+| 5        | [Operadores](/05_Operadores/readme.md)                    | Descripción de operadores básicos |
+| 6        | [Biblioteca Estándar (Built-in)](/06_Biblioteca%20Est%C3%A1ndar/readme.md)                    | Uso de las funciones básicas incorporadas a Python |
+| 7        | [Variables](/07_Variables/readme.md)           | Crear variables, instanciarlas y tiparlas                                         |
+| 8        | [Strings](/08_Strings/readme.md)           | Aprender a trabajar con Strings                                         |
+| 9        | [Listas](/09_Listas/readme.md)           | Aprender a trabajar con Listas                                         |
+| 10        | [Tuplas](/10_Tuplas/readme.md)           | Aprender a trabajar con Tuplas                                         |
 | 99       | Imagenes              | Directorio para almacenar imágenes (no le eches mucha cuenta) |
 
 ***
 
-➡️ Empezamos con la [instalación](/0%20-%20Instalaci%C3%B3n/readme.md).
+➡️ Empezamos con la [instalación](/00_Instalaci%C3%B3n/readme.md).

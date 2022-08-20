@@ -64,7 +64,7 @@ is_married = True
 hobbies = ['videogames', 'develop', 'reading']
 ```
 
-Te recuerdo que tienes el tema de los [tipos de datos](/4_Tipos%20de%20datos/readme.md).
+Te recuerdo que tienes el tema de los [tipos de datos](/04_Tipos_de_datos/readme.md).
 
 ## Python infiere el tipo de datos
 
@@ -104,8 +104,8 @@ O incluso para nosotros mismos, para que más adelante, recordemos el porqué lo
 
 ## A practicar
 
-Ahora llega el momento de [practicar lo aprendido](/7_Variables/ejercicios_variables.md), ¡vamos a ello!
+Ahora llega el momento de [practicar lo aprendido](/07_Variables/ejercicios_variables.md), ¡vamos a ello!
 
 ***
 
-⬅️ [Clase anterior](/6_Biblioteca%20Est%C3%A1ndar/readme.md) | [Clase siguiente](/8_Strings/readme.md) ➡️
+⬅️ [Clase anterior](/06_Biblioteca%20Est%C3%A1ndar/readme.md) | [Clase siguiente](/08_Strings/readme.md) ➡️

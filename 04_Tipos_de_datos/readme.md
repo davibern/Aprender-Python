@@ -24,7 +24,7 @@ Es una colección de uno o más caracteres que se declaran con comillas simples 
 >
 >"Santa Claus"
 
-Tienes más información en la clase específico de [Strings](/8_Strings/readme.md).
+Tienes más información en la clase específico de [Strings](/08_Strings/readme.md).
 
 ## Tipo BOOLEAN (Boolean)
 
@@ -45,7 +45,7 @@ Si quisiéramos compararlos podría ser una matriz en Javascript.
 ['Football', 'Rugby', 'Squash', 1, 3, False] # Lista que contiene elementos de diferentes tipos
 ```
 
-Tienes más información en la clase específico de [Strings](/9_Listas/readme.md).
+Tienes más información en la clase específico de [Strings](/09_Listas/readme.md).
 
 ## Tipo DICCIONARIO (Dictionary)
 
@@ -69,6 +69,8 @@ Son INMUTABLES.
 ```Python
 ('Seville', 'Granade', 'Malaga', 'Cadiz', 'Huelva', 'Jaen', 'Cordoba', 'Almeria')
 ```
+
+Tienes más información en la clase específico de [Tuplas](/10_Tuplas/readme.md).
 
 ## Tip SET (Set)
 Un set es una colección de datos similares a una lista o tupla. Y a diferencia de ambas, sus datos no están ordenados.
@@ -117,4 +119,4 @@ La solución está en este otro enlace: [solucion ejercicios de datos].
 
 ***
 
-⬅️ [Clase anterior](/3_Comentarios/readme.md) | [Clase siguiente](/5_Operadores/readme.md) ➡️
+⬅️ [Clase anterior](/03_Comentarios/readme.md) | [Clase siguiente](/05_Operadores/readme.md) ➡️

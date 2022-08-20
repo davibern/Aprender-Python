@@ -52,4 +52,4 @@ Y con esto deberías de tener todo lo suficiente para empezar a trabajar con Pyt
 
 ***
 
-⬅️ [Clase anterior](/0_Instalaci%C3%B3n/readme.md) | [Clase siguiente](/2_Fichero%20Python/readme.md) ➡️
+⬅️ [Clase anterior](/00_Instalaci%C3%B3n/readme.md) | [Clase siguiente](/02_Fichero%20Python/readme.md) ➡️

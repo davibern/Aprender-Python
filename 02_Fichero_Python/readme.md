@@ -44,4 +44,4 @@ Puedes probar descargando el fichero de pruebas que he preparado.
 
 ***
 
-⬅️ [Clase anterior](/1_Entorno%20de%20desarrollo/readme.md) | [Clase siguiente](/3_Comentarios/readme.md) ➡️
+⬅️ [Clase anterior](/01_Entorno_de_desarrollo/readme.md) | [Clase siguiente](/03_Comentarios/readme.md) ➡️

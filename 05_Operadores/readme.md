@@ -108,8 +108,8 @@ Igualmente te dejo aquí dos enlaces por si quieres tener más detalles o no qui
 
 # Toca practicar
 
-Ahora toca practicar lo que acabamos de leer. Te dejo por aquí el enlace al los [ejercicios](/5_Operadores/ejercicios_operadores.md), ¡al lío!
+Ahora toca practicar lo que acabamos de leer. Te dejo por aquí el enlace al los [ejercicios](/05_Operadores/ejercicios_operadores.md), ¡al lío!
 
 ***
 
-⬅️ [Clase anterior](/4_Tipos%20de%20datos/readme.md) | [Clase siguiente](/6_Biblioteca%20Est%C3%A1ndar/readme.md) ➡️
+⬅️ [Clase anterior](/04_Tipos_de_datos/readme.md) | [Clase siguiente](/06_Biblioteca%20Est%C3%A1ndar/readme.md) ➡️

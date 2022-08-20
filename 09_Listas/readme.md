@@ -1,6 +1,6 @@
 # Listas (Lists)
 
-Como ya habrás visto en la [clase de tipos de datos](/4_Tipos%20de%20datos/readme.md), existen varios tipos de colecciones, este recordatorio lo voy a incluir en cada una de ellas, porque machacar información es también la mejor manera de que entre en la cabezita 🤯
+Como ya habrás visto en la [clase de tipos de datos](/04_Tipos_de_datos/readme.md), existen varios tipos de colecciones, este recordatorio lo voy a incluir en cada una de ellas, porque machacar información es también la mejor manera de que entre en la cabezita 🤯
 
 Pero primero, ¿qué es una Lista?
 
@@ -331,8 +331,8 @@ print(lista_1) # [5, 4, 3, 2, 1]
 
 Pues ya hemos terminado esta clase, tengo que darte otra vez mi enhorabuena, porque si has llegado hasta el final, una de dos, o te gusta mucho Python como para dejarlo, o tan mal no lo hago 😜
 
-Vamos a los [ejercicios](/9_Listas/ejercicios_lista.md).
+Vamos a los [ejercicios](/09_Listas/ejercicios_lista.md).
 
 ***
 
-⬅️ [Clase anterior](/8_Strings/) | [Clase siguiente](/10_Tuplas/readme.md) ➡️
+⬅️ [Clase anterior](/08_Strings/) | [Clase siguiente](/10_Tuplas/readme.md) ➡️

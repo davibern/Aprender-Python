@@ -11,4 +11,4 @@
 9. Comprueba ```mi_texto``` usando los métodos isalnum, isalpha y isdigit.
 10. Crea una variable lista_mi_texto y que se guarde el resultado de usar el método split sobre ```mi_texto```. Luego lo imprimes por pantalla.
 
-Intenta realizar estos ejercicios sin mirar, y luego, los compruebas con la [solución](/8_Strings/solucion_string.py).
+Intenta realizar estos ejercicios sin mirar, y luego, los compruebas con la [solución](/08_Strings/solucion_string.py).

@@ -1,6 +1,6 @@
 # Ejercicios
 
-Abre tu [entorno de desarollo](/1_Entorno%20de%20desarrollo/readme.md), y crea un script para empezar a crear variables.
+Abre tu [entorno de desarollo](/01_Entorno_de_desarrollo/readme.md), y crea un script para empezar a crear variables.
 
 1. Crea una variable que se llame edad y que tenga como calculo restar la fecha actual menos tu fecha de nacimiento. No tienes porqué calcular la fecha actual con ninguna función.
 2. Crea una variable que se llame nombre, le indicas que es de tipo string (str) y lo inicializas con tu nombre.
@@ -13,4 +13,4 @@ Abre tu [entorno de desarollo](/1_Entorno%20de%20desarrollo/readme.md), y crea u
 9. Imprime por pantalla el tipo de la variable anterior (usa type(()).
 10. Cambia el valor de la variable anterior por 2022 y vuelve a comprobar tu tipo.
 
-Puedes comprobar los resultados [aquí](/7_Variables/solucion_variables.py).
+Puedes comprobar los resultados [aquí](/07_Variables/solucion_variables.py).
