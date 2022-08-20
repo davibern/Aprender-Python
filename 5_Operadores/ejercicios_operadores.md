@@ -13,7 +13,7 @@ Puedes realizar este ejercicio bien en el shell de Python usando tu terminal o c
 
 # Solución
 
-Como ves son ejercicios muy simples porque aún no estamos creando variables. Tienes la solución [aquí](/5%20-%20Operadores/solucion_operadores.py)
+Como ves son ejercicios muy simples porque aún no estamos creando variables. Tienes la solución [aquí](/5_Operadores/solucion_operadores.py)
 
 Como nota o recordatorio, te recuerdo que si ejecutas desde la shell las operaciones sí verás los resultados porque estarás usando Python como calculadora, y si lo ejecutas desde un fichero py, si no se indica salida de información, las operaciones se ejecutarán pero no se mostrarán.
 

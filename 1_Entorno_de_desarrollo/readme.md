@@ -38,7 +38,7 @@ El mejor que te recomiendo es [Python Extension Pack], porque esta herramienta c
 - Django
 - Etc.
 
-![Python Extension Pack](/99%20-%20Imagenes/python_extension_pack.png)
+![Python Extension Pack](/99_Imagenes/python_extension_pack.png)
 
 [Python Extension Pack]: https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack
 
@@ -52,4 +52,4 @@ Y con esto deberías de tener todo lo suficiente para empezar a trabajar con Pyt
 
 ***
 
-⬅️ [Clase anterior](/0%20-%20Instalaci%C3%B3n/readme.md) | [Clase siguiente](/2%20-%20Fichero%20Python/readme.md) ➡️
+⬅️ [Clase anterior](/0_Instalaci%C3%B3n/readme.md) | [Clase siguiente](/2_Fichero%20Python/readme.md) ➡️

@@ -64,7 +64,7 @@ is_married = True
 hobbies = ['videogames', 'develop', 'reading']
 ```
 
-Te recuerdo que tienes el tema de los [tipos de datos](/4%20-%20Tipos%20de%20datos/readme.md).
+Te recuerdo que tienes el tema de los [tipos de datos](/4_Tipos%20de%20datos/readme.md).
 
 ## Python infiere el tipo de datos
 
@@ -86,7 +86,7 @@ Como se puede ver, Java necesita que le digas primero, qué tipo de dato vas a a
 
 En cualquier caso, podemos indicar el tipo cuando creamos la variable, pero esto no forzará el tipo, es decir, si creas una variable de tipo String, luego puedes cambiarle tipo a un Integer, que Python no se va a quejar.
 
-![Crear variable en Python](/99%20-%20Imagenes/variables.png)
+![Crear variable en Python](/99_Imagenes/variables.png)
 
 Como puedes ver en la imagen, indico el tipo:
 
@@ -104,8 +104,8 @@ O incluso para nosotros mismos, para que más adelante, recordemos el porqué lo
 
 ## A practicar
 
-Ahora llega el momento de [practicar lo aprendido](/7%20-%20Variables/ejercicios_variables.md), ¡vamos a ello!
+Ahora llega el momento de [practicar lo aprendido](/7_Variables/ejercicios_variables.md), ¡vamos a ello!
 
 ***
 
-⬅️ [Clase anterior](/6%20-%20Biblioteca%20Est%C3%A1ndar/readme.md) | [Clase siguiente](/8%20-%20Strings/readme.md) ➡️
+⬅️ [Clase anterior](/6_Biblioteca%20Est%C3%A1ndar/readme.md) | [Clase siguiente](/8_Strings/readme.md) ➡️

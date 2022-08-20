@@ -28,7 +28,7 @@ Y vemos que nos devuelve 11. ¿Qué signfica este 11? Significa que existen 11 p
 
 Hemos creado un string que sólo tiene 1 línea, que suele ser lo habitual, pero puede darte el caso de necesitar más de una línea para, por ejemplo, explicar el funcionamiento de un campo.
 
-Las multilíneas se crean con la triple comilla, ya sea simple o doble (''' o """) ¿te suena de los [comentarios](/3%20-%20Comentarios/readme.md)?
+Las multilíneas se crean con la triple comilla, ya sea simple o doble (''' o """) ¿te suena de los [comentarios](/3_Comentarios/readme.md)?
 
 ```Python
 texto_multi = '''En un lugar de la mancha,
@@ -468,8 +468,8 @@ print(text.startswith('fou')) # Devuelve True
 
 ## ¡A practicar!
 
-Y después de leer tanto y asimilar conceptos, lo siguiente es ponerlos en [práctica](/8%20-%20Strings/ejercicios_string.md).
+Y después de leer tanto y asimilar conceptos, lo siguiente es ponerlos en [práctica](/8_Strings/ejercicios_string.md).
 
 ***
 
-⬅️ [Clase anterior](/7%20-%20Variables/readme.md) | [Clase siguiente](/9%20-%20Listas/readme.md) ➡️
+⬅️ [Clase anterior](/7_Variables/readme.md) | [Clase siguiente](/9_Listas/readme.md) ➡️

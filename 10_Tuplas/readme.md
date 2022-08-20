@@ -1,6 +1,6 @@
 # Tuplas (tuples)
 
-Como ya habrás visto en la [clase de tipos de datos](/4%20-%20Tipos%20de%20datos/readme.md), existen varios tipos de colecciones, este recordatorio lo voy a incluir en cada una de ellas, porque machacar información es también la mejor manera de que entre en la cabezita 🤯
+Como ya habrás visto en la [clase de tipos de datos](/4_Tipos%20de%20datos/readme.md), existen varios tipos de colecciones, este recordatorio lo voy a incluir en cada una de ellas, porque machacar información es también la mejor manera de que entre en la cabezita 🤯
 
 Pero primero, ¿qué es una Tupla?
 
@@ -198,4 +198,4 @@ Aún así, ¡felicidades!
 
 ***
 
-Y ahora a [practicar](/10%20-%20Tuplas/ejercicios_tuples.md).
+Y ahora a [practicar](/10_Tuplas/ejercicios_tuples.md).

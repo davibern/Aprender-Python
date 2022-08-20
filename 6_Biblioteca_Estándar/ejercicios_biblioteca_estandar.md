@@ -12,4 +12,4 @@
 8. Imprime por pantalla el texto: 'Hola mundo de Python'
 9. Pide al usuario que te indique su nombre y que lo tenga que escribir (pista: consulta en la documentación la función input())
 
-Y por ahora nada más, te dejo a [continuación la solución](/6%20-%20Biblioteca%20Est%C3%A1ndar/solucion_biblioteca_estandar.py).
+Y por ahora nada más, te dejo a [continuación la solución](/6_Biblioteca%20Est%C3%A1ndar/solucion_biblioteca_estandar.py).

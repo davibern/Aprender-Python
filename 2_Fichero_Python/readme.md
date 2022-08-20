@@ -12,7 +12,7 @@ Lo bueno es que una vez creado, y como tenemos instalado el intérprete, de form
 
 Y lo mejor es que desde un bloc de notas podemos editarlo, no neceistaríamos realmente nada más.
 
-![Fichero Python](/99%20-%20Imagenes/practicar_fichero.png)
+![Fichero Python](/99_Imagenes/practicar_fichero.png)
 
 # Ejecutar el fichero Python
 
@@ -22,11 +22,11 @@ Ya tenemos el fichero con nuestras líneas de código, ¿y ahora cómo lo ejecut
 
 Desde Visual Studio Code tienes arriba a la derecha un icono de "play" para ejecutar el programa.
 
-![Ejecutar fichero Python desde vscode](/99%20-%20Imagenes/ejecutar_fichero_vscode.png)
+![Ejecutar fichero Python desde vscode](/99_Imagenes/ejecutar_fichero_vscode.png)
 
 Desde el propio Visual Studio Code se mostrará la terminal el sistem con la salida estándar.
 
-![Ejecución fichero Python desde vscode](/99%20-%20Imagenes/ejecutar_fichero_vscode_salida.png)
+![Ejecución fichero Python desde vscode](/99_Imagenes/ejecutar_fichero_vscode_salida.png)
 
 ## 2. Desde la Terminal
 
@@ -34,7 +34,7 @@ Si prefieres ejecutar tu fichero Python desde la terminal tienes que llamar al b
 
 Si estás ejecutando el fichero en el terminal desde el mismo directorio te bastará con indicar el nombre, pero si estás en otro directorio habrá que añadir su referencia absoluta.
 
-![Ejecución fichero Python desde terminal](/99%20-%20Imagenes/ejecutar_fichero_terminal.png)
+![Ejecución fichero Python desde terminal](/99_Imagenes/ejecutar_fichero_terminal.png)
 
 Puedes probar descargando el fichero de pruebas que he preparado.
 
@@ -44,4 +44,4 @@ Puedes probar descargando el fichero de pruebas que he preparado.
 
 ***
 
-⬅️ [Clase anterior](/1%20-%20Entorno%20de%20desarrollo/readme.md) | [Clase siguiente](/3%20-%20Comentarios/readme.md) ➡️
+⬅️ [Clase anterior](/1_Entorno%20de%20desarrollo/readme.md) | [Clase siguiente](/3_Comentarios/readme.md) ➡️

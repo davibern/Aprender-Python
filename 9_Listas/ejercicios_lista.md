@@ -16,4 +16,4 @@
 15. Une ambas listas usando ```extend()``` e imprime todos los valores.
 16. Limpia la lista usando ```clear()```.
 
-Realiza los ejercicios sin mirar, y cuando los tengas, comprueba con la [solución](/9%20-%20Listas/solucion_list.py).
+Realiza los ejercicios sin mirar, y cuando los tengas, comprueba con la [solución](/9_Listas/solucion_list.py).

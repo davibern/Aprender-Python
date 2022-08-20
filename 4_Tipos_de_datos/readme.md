@@ -24,7 +24,7 @@ Es una colección de uno o más caracteres que se declaran con comillas simples 
 >
 >"Santa Claus"
 
-Tienes más información en la clase específico de [Strings](/8%20-%20Strings/readme.md).
+Tienes más información en la clase específico de [Strings](/8_Strings/readme.md).
 
 ## Tipo BOOLEAN (Boolean)
 
@@ -45,7 +45,7 @@ Si quisiéramos compararlos podría ser una matriz en Javascript.
 ['Football', 'Rugby', 'Squash', 1, 3, False] # Lista que contiene elementos de diferentes tipos
 ```
 
-Tienes más información en la clase específico de [Strings](/9%20-%20Listas/readme.md).
+Tienes más información en la clase específico de [Strings](/9_Listas/readme.md).
 
 ## Tipo DICCIONARIO (Dictionary)
 
@@ -117,4 +117,4 @@ La solución está en este otro enlace: [solucion ejercicios de datos].
 
 ***
 
-⬅️ [Clase anterior](/3%20-%20Comentarios/readme.md) | [Clase siguiente](/5%20-%20Operadores/readme.md) ➡️
+⬅️ [Clase anterior](/3_Comentarios/readme.md) | [Clase siguiente](/5_Operadores/readme.md) ➡️

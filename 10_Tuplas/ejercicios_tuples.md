@@ -1,6 +1,6 @@
 # Ejercicios
 
-Como siempre, intenta realizarlos sin mirar, y luego los compruebas con la [solución](/10%20-%20Tuplas/solucion_tuples.py).
+Como siempre, intenta realizarlos sin mirar, y luego los compruebas con la [solución](/10_Tuplas/solucion_tuples.py).
 
 1. Crea un fichero nuevo en tu proyecto para estas prácticas.
 2. Crea una tupla con los valores 1, 2, 3, 4, 5. Llámalo tupla_1, y lo imprimes por pantalla.

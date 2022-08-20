@@ -41,4 +41,4 @@ Recuerda que si lo ejecutas en el intérprete de Python, éste no te va a devolv
 
 ***
 
-⬅️ [Clase anterior](/2%20-%20Fichero%20Python/readme.md) | [Clase siguiente](/4%20-%20Tipos%20de%20datos/readme.md) ➡️
+⬅️ [Clase anterior](/2_Fichero%20Python/readme.md) | [Clase siguiente](/4_Tipos%20de%20datos/readme.md) ➡️
