@@ -215,4 +215,4 @@ Ya sabes lo que toca ahora, [practicar](/11_Sets/ejercicios_sets.md). Los ejerci
 
 ***
 
-⬅️ [Clase anterior](/10_Tuplas/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/10_Tuplas/readme.md) | [Clase siguiente](/12_Diccionarios/readme.md) ➡️
