@@ -187,4 +187,4 @@ Ahora ya sabes lo que toca, ¡[practicar](/12_Diccionarios/ejercicios_diccionari
 
 ***
 
-⬅️ [Clase anterior](/11_Sets/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/11_Sets/readme.md) | [Clase siguiente](/13_Condicionales/readme.md) ➡️

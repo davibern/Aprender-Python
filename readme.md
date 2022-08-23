@@ -50,6 +50,7 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 10        | [Tuplas](/10_Tuplas/readme.md)           | Aprender a trabajar con Tuplas                                         |
 | 11        | [Conjuntos](/11_Sets/readme.md)           | Aprender a trabajar con Conjuntos (Sets)                                         |
 | 12        | [Diccionarios](/12_Diccionarios/readme.md)           | Aprender a trabajar con Diccionarios                                         |
+| 13        | [Condicionales](/13_Condicionales/readme.md)           | Estructura de control: condicionales                                         |
 | 99       | Imagenes              | Directorio para almacenar imágenes (no le eches mucha cuenta) |
 
 ***
