@@ -193,4 +193,4 @@ Vamos ahora con los [ejercicios](/13_Condicionales/ejercicios_condicionales.md) 
 
 ***
 
-⬅️ [Clase anterior](/12_Diccionarios/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/12_Diccionarios/readme.md) | [Clase siguiente](/14_Bucles/readme.md) ➡️
