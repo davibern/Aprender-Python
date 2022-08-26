@@ -52,7 +52,6 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 12        | [Diccionarios](/12_Diccionarios/readme.md)           | Aprender a trabajar con Diccionarios                                         |
 | 13        | [Condicionales](/13_Condicionales/readme.md)           | Estructura de control: condicionales (if)                                         |
 | 14        | [Bucles](/14_Bucles/readme.md)           | Estructura de control: bucles (loops)                                         |
-| 99       | Imagenes              | Directorio para almacenar imágenes (no le eches mucha cuenta) |
 
 ***
 
