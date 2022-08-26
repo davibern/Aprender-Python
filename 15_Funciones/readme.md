@@ -178,7 +178,7 @@ Puede que el ejemplo no sea el mejor del mundo, pero espero que se capte el mens
 
 😀 Estamos llegando bastante lejos, y estás siendo muy perseverante, mi más sincera enhorabuena 😀
 
-Ahora vamos con los [ejercicios](/15_Funciones/solucion_funciones.py).
+Ahora vamos con los [ejercicios](/15_Funciones/ejercicios_funciones.md).
 
 ***
 
