@@ -287,4 +287,4 @@ Ahora toca los [ejercicios](/14_Bucles/ejercicios_bucles.md), ¿te animas?
 
 ***
 
-⬅️ [Clase anterior](/13_Condicionales/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/13_Condicionales/readme.md) | [Clase siguiente](/15_Funciones/readme.md) ➡️
