@@ -53,6 +53,7 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 13        | [Condicionales](/13_Condicionales/readme.md)           | Estructura de control: condicionales (if)                                         |
 | 14        | [Bucles](/14_Bucles/readme.md)           | Estructura de control: bucles (loops)                                         |
 | 15        | [Funciones](/15_Funciones/readme.md)           | Funciones                                       |
+| 16        | [Módulos](/16_Modulos/readme.md)           | Módulos (paquetes)                                       |
 
 ***
 

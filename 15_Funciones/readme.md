@@ -182,4 +182,4 @@ Ahora vamos con los [ejercicios](/15_Funciones/ejercicios_funciones.md).
 
 ***
 
-⬅️ [Clase anterior](/14_Bucles/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/14_Bucles/readme.md) | [Clase siguiente](/16_Modulos/readme.md) ➡️
