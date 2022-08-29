@@ -54,6 +54,7 @@ Igualmente de dejo aquí también los accesos con un pequeño resumen de qué va
 | 14        | [Bucles](/14_Bucles/readme.md)           | Estructura de control: bucles (loops)                                         |
 | 15        | [Funciones](/15_Funciones/readme.md)           | Funciones                                       |
 | 16        | [Módulos](/16_Modulos/readme.md)           | Módulos (paquetes)                                       |
+| 17        | [Clases](/17_Clases/readme.md)           | Clases (objetos)                                       |
 
 ***
 

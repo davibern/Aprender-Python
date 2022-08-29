@@ -79,4 +79,4 @@ Para esta unidad lo mejor es que practiques importando tus propios paquetes, u o
 
 ***
 
-⬅️ [Clase anterior](/15_Funciones/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/15_Funciones/readme.md) | [Clase siguiente](/17_Clases/readme.md) ➡️
