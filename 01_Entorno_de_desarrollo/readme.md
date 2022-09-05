@@ -12,7 +12,7 @@ De entre todos los que hay, te diferencio los siguientes tres:
 [Visual Studio Code]: https://code.visualstudio.com/
 [Vim]: https://www.vim.org/
 
-# Configurar Visual Studio Code
+## Configurar Visual Studio Code
 
 Yo estoy usando VSCode, por varias razones:
 
@@ -47,6 +47,23 @@ También te recomiendo instalar [Error Lens], porque te ayudará a detectar erro
 [Error Lens]: https://marketplace.visualstudio.com/items?itemName=PhilHindle.errorlens
 
 Y con esto deberías de tener todo lo suficiente para empezar a trabajar con Python en tu sistema operativo.
+
+## Crear un proyecto en Visual Studio Code
+
+Una vez que tenemos configurado el entorno de desarrollo lo siguiente es crear nuestro proyecto. Para ello elige una ruta en tu ordenador, tales como "Mis Documentos", "Documentos", etc., donde tu prefieras.
+
+Una vez que tengas elegida la mejor ubicación lo siguiente es crear una nueva carpeta o directorio, llámalo como prefieras, en mi caso lo he llamado **Aprender-Python**.
+
+¿Ya lo tienes creado? Pues abrir un directorio en Visual Studio Code es lo más fácil, tienes dos opciones:
+
+- Arrastrar la carpeta al entorno de desarrollo, esto te abrirá el proyecto automáticamente.
+- O bien en Archivo -> Abrir carpeta...
+
+![Abrir carpeta proyecto](/99_Imagenes/abrir_carpeta.png)
+
+La primera vez y si no hay archivos dentro, el proyecto en Visual Studio Code estará vacío, pero esto es normal ¡no te asustes! 😱
+
+A medida que vayas creando en su interior más directorios o ficheros, éstos se irán mostrando en tu editor.
 
 **¡A por ello!** 💪
 
