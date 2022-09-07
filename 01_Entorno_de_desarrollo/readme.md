@@ -69,4 +69,4 @@ A medida que vayas creando en su interior más directorios o ficheros, éstos se
 
 ***
 
-⬅️ [Clase anterior](/00_Instalaci%C3%B3n/readme.md) | [Clase siguiente](/02_Fichero%20Python/readme.md) ➡️
+⬅️ [Clase anterior](/00_Instalaci%C3%B3n/readme.md) | [Clase siguiente](/02_Fichero_Python/readme.md) ➡️

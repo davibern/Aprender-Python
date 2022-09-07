@@ -109,4 +109,4 @@ Para salir de la shell de Pyton basta con escribir ```quit()```.
 
 ***
 
-⬅️ [Inicio](/readme.md) | [Clase siguiente](/1_Entorno%20de%20desarrollo/readme.md) ➡️
+⬅️ [Inicio](/readme.md) | [Clase siguiente](/01_Entorno_de_desarrollo/readme.md) ➡️
