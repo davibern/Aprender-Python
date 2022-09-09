@@ -4,7 +4,7 @@ Ya tenemos el intérprete instalado, y tenemos nuestro entorno debidamente prepa
 
 Pues ahora lo primero es crear nuestro fichero Python. En nuestro sistema podemos crearlo bien desde la interfaz gráfica o desde la terminal, tu eliges tu forma preferida.
 
-Ahora bien, lo importante es que el fichero tenga de extensión **py**.
+Ahora bien, lo importante es que el fichero tenga extensión **py**.
 
 Por ejemplo: **practicar_fichero.py**
 
@@ -24,13 +24,13 @@ Desde Visual Studio Code tienes arriba a la derecha un icono de "play" para ejec
 
 ![Ejecutar fichero Python desde vscode](/99_Imagenes/ejecutar_fichero_vscode.png)
 
-Desde el propio Visual Studio Code se mostrará la terminal el sistem con la salida estándar.
+Se abrirá la terminal por defecto, si no la tuvieras abierta, con la salida estándar que se haya definido en el fichero py.
 
 ![Ejecución fichero Python desde vscode](/99_Imagenes/ejecutar_fichero_vscode_salida.png)
 
 ## 2. Desde la Terminal
 
-Si prefieres ejecutar tu fichero Python desde la terminal tienes que llamar al binario de Python seguido del fichero. 
+Si prefieres ejecutar tu fichero desde la shell de Python tienes que llamar al binario, es decir, al fichero, desde la terminal de Python. 
 
 Si estás ejecutando el fichero en el terminal desde el mismo directorio te bastará con indicar el nombre, pero si estás en otro directorio habrá que añadir su referencia absoluta.
 
