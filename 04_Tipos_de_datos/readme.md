@@ -24,7 +24,7 @@ Es una colección de uno o más caracteres que se declaran con comillas simples 
 >
 >"Santa Claus"
 
-Tienes más información en la clase específico de [Strings](/08_Strings/readme.md).
+Tienes más información en la clase específica de [Strings](/08_Strings/readme.md).
 
 ## Tipo BOOLEAN (Boolean)
 
@@ -45,7 +45,7 @@ Si quisiéramos compararlos podría ser una matriz en Javascript.
 ['Football', 'Rugby', 'Squash', 1, 3, False] # Lista que contiene elementos de diferentes tipos
 ```
 
-Tienes más información en la clase específico de [Strings](/09_Listas/readme.md).
+Tienes más información en la clase específica de [Listas](/09_Listas/readme.md).
 
 ## Tipo DICCIONARIO (Dictionary)
 
@@ -60,6 +60,8 @@ Un diccionario en Python es una colección desordenada de datos que contiene un 
 }
 ```
 
+Tienes más información en la clase específica de [Diccionarios](/12_Diccionarios/readme.md).
+
 ## Tipo TUPLA (Tuple)
 Una tupla es una colección ordenada de diferentes tipos de datos, parecido a la lista pero con la diferencia
 que sus datos no se pueden modificar una vez creados.
@@ -70,7 +72,7 @@ Son INMUTABLES.
 ('Seville', 'Granade', 'Malaga', 'Cadiz', 'Huelva', 'Jaen', 'Cordoba', 'Almeria')
 ```
 
-Tienes más información en la clase específico de [Tuplas](/10_Tuplas/readme.md).
+Tienes más información en la clase específica de [Tuplas](/10_Tuplas/readme.md).
 
 ## Tip SET (Set)
 Un set es una colección de datos similares a una lista o tupla. Y a diferencia de ambas, sus datos no están ordenados.
@@ -82,6 +84,8 @@ El orden en Set no es importante, sino mantener una integridad de valores sin du
 ```Python
 {2, 3, 4, 5}
 ```
+
+Tienes más información en la clase específica de [Sets](/11_Sets/readme.md).
 
 ## Comprobrar el tipo de DATO
 
