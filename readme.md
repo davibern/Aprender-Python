@@ -58,6 +58,7 @@ Igualmente te dejo aquí también los accesos con un pequeño resumen de qué va
 | 15        | [Funciones](/15_Funciones/readme.md)           | Funciones                                       |
 | 16        | [Módulos](/16_Modulos/readme.md)           | Módulos (paquetes)                                       |
 | 17        | [Clases](/17_Clases/readme.md)           | Clases (objetos)                                       |
+| 18        | [Lista Compacta](/18_Lista_Compacta/)           | Clases (objetos)                                       |
 
 Si no sabes nada de Python, recomiendo encarecidamente empezar por la [instalación](/00_Instalaci%C3%B3n/readme.md).
 
