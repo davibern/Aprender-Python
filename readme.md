@@ -12,7 +12,7 @@ Y que mejor manera de aprender que obligarte a practicar y escribir tu mismo lo 
 
 Ya se sabe que la mejor manera de meter información en la cabeza es practicar y documentar 😉
 
-# Mi Inspiración
+## Mi Inspiración
 
 Este repositorio lo he creado, como digo anteriormente, para aprender, y me han servido de inspiración dos cursos ya creados antes que este, que son:
 
@@ -24,11 +24,13 @@ Quiero dejar constancia que este repositorio es explicando los conceptos a mi ma
 
 Te dejo por tanto la página que hay que añadir a favoritos si tu intención es aprender este lenguaje
 
-👉 [Página oficial de Python] 👈
+## Enlaces de interés
 
-[Página oficial de Python]: https://docs.python.org/es/3/tutorial/index.html
+* [Página oficial de Python](https://docs.python.org/es/3/tutorial/index.html)
+* [30 días de Python](https://github.com/Asabeneh/30-Days-Of-Python)
+* [Visual Studio Code](https://code.visualstudio.com)
 
-# Guía Rápida
+## Guía Rápida
 
 El curso lo estoy estructurando según el árbol de directorios que puedes ver más arriba. La numeración indica por el tema que deberías empezar si quieres adentrarte en Python tal y como lo estoy haciendo yo.
 
@@ -58,6 +60,14 @@ Igualmente te dejo aquí también los accesos con un pequeño resumen de qué va
 | 17        | [Clases](/17_Clases/readme.md)           | Clases (objetos)                                       |
 
 Si no sabes nada de Python, recomiendo encarecidamente empezar por la [instalación](/00_Instalaci%C3%B3n/readme.md).
+
+## ¿Te está gustando el contenido?
+
+Puedes apoyarme concediéndome una ☆ en el repositorio, o bien nominándome al **Github Star**.
+
+Sé que será prácticamente imposible que nadie lo haga porque tengo repercusión cero, ¿pero quién dijo miedo? 🤪
+
+[https://stars.github.com/nominate/](https://stars.github.com/nominate/)
 
 ***
 
