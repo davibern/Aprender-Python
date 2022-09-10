@@ -190,4 +190,4 @@ Ahora vamos con unos [ejercicios](/17_Clases/ejercicios_clases.md) básicos.
 
 ***
 
-⬅️ [Clase anterior](/16_Modulos/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/16_Modulos/readme.md) | [Clase siguiente](/18_Lista_Compacta/readme.md) ➡️
