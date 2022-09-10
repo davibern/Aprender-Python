@@ -1,8 +1,10 @@
-![Python](https://www.python.org/static/img/python-logo.png)
-
 # Aprender Python
 
-Este repositorio lo he creado con la finalidad de ir aprendiendo Python poco a poco.
+![Python](https://img.shields.io/badge/Python-3.10-green?style=for-the-badge&logo=python)
+
+![Python](https://www.python.org/static/img/python-logo.png)
+
+Este repositorio lo he creado con la finalidad de ir aprendiendo Python poco a poco. 🐍
 
 Lo poco que he visto del lenguaje me está gustando mucho, así que me he dicho, ¿por qué no hacer una pequeña guía del lenguaje con lo que vayas aprendiendo?
 
