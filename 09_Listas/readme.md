@@ -333,6 +333,8 @@ Pues ya hemos terminado esta clase, tengo que darte otra vez mi enhorabuena, por
 
 Vamos a los [ejercicios](/09_Listas/ejercicios_lista.md).
 
+De forma avanzada, puedes echarle un vistazo a las [listas compactas](/18_Lista_Compacta/readme.md), que es un forma más eficaz y rápida de crear y operar con listas.
+
 ***
 
 ⬅️ [Clase anterior](/08_Strings/) | [Clase siguiente](/10_Tuplas/readme.md) ➡️
