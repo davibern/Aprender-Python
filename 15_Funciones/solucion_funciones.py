@@ -1,9 +1,10 @@
-# Crea una función con dos argumentos que se llame multiplicación y que devuelva el producto de ambos.
+# Imports
 from audioop import mul
 from cmath import pi
 from statistics import multimode
 import random
 
+# Crea una función con dos argumentos que se llame multiplicación y que devuelva el producto de ambos.
 def mulitplicacion(a, b):
     return a * b
 print(mulitplicacion(20, 3))
