@@ -2,7 +2,7 @@
 
 Una vez que hemos visto todo lo relacionado con los [tipos de datos](/04_Tipos_de_datos/readme.md), las [funciones básicas](/06_Biblioteca_Est%C3%A1ndar/readme.md), las [variables](/07_Variables/readme.md), etc., es hora de empezar a programar líneas de código más interesante.
 
-Y una de ellas y, puede ser, de las más importantes, son los condicionales.
+Y una de las más importantes son los condicionales.
 
 Aunque antes de empezar, un aviso importante:
 
@@ -25,7 +25,6 @@ Una condición es una pregunta, sin interrogantes, en las cuales esperas una res
 
 - Que ésta sea verdadera.
 - Que ésta sea falsa.
-- O que no se cumpla ninguna de las dos.
 
 Por ejemplo, imagina que tienes una variable que representa el estado de una puerta. Así que pensemos en una puerta, la del baño, o tu dormitorio. La puerta puede tener dos estados, cerrada o abierta.
 
