@@ -16,3 +16,4 @@ Vamos con los siguientes ejercicios, recuerda que tienes aquí la [solución](/1
     * si el argumento entrada es salida se le restará al total lo indicado en valor.
     * la función devolverá con un return el valor de total.
 8. Crea una función que se llama es_par_impar(), recibirá como argumento un número, y devolverá par si es par o impar si es impar.
+9. Crea una función que servirá para adivinar un número aleatorio. Este número aleatorio estará comprendido entre 1 y un máximo que se indicará como argumento de nuestra función. El usuario tendrá que ir añadiendo números hasta dar con el aleatorio, para ello habrá que ayudarle e indicarle si se está acercando o alejando del número a encontrar.

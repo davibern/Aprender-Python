@@ -2,7 +2,7 @@
 from audioop import mul
 from cmath import pi
 from statistics import multimode
-
+import random
 
 def mulitplicacion(a, b):
     return a * b
@@ -69,3 +69,26 @@ def es_par_impar(numero):
     
 print(es_par_impar(4))
 print(es_par_impar(5))
+
+'''Crea una función que servirá para adivinar un número aleatorio. Este número aleatorio estará comprendido entre 1 y un máximo que se
+indicará como argumento de nuestra función. El usuario tendrá que ir añadiendo números hasta dar con el aleatorio, para ello habrá que ayudarle
+e indicarle si se está acercando o alejando del número a encontrar.
+
+Tendrás que importar el módulo random.'''
+def adivinar_numero_aleatorio(maximo):
+
+   aleatorio = random.randint(1, maximo)
+   
+   numero_a_adivinar = 0
+   
+   while numero_a_adivinar != aleatorio:
+       numero_a_adivinar = int(input(f'Adivina un número comprendido entre 1 y {maximo}: '))
+       
+       if numero_a_adivinar < aleatorio:
+           print('Vaya tu número está por debajo! Inténtalo de nuevo :)')
+       elif numero_a_adivinar > aleatorio:
+           print('Vaya tu número está por encima! Inténtalo de nuevo :)')
+           
+   print(f'¡Enhorabuena! Has adivinado el número {aleatorio} ¡Felicidades!')
+    
+adivinar_numero_aleatorio(10)
