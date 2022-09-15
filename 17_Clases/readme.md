@@ -4,7 +4,7 @@ Python es un lenguaje de programación orientado a objetos. Todo en Python es un
 
 Cuando hemos vistos los [tipos de datos](/04_Tipos_de_datos/readme.md), hemos estado viendo clases y objetos. Puesto que cada tipo contiene sus propios métodos y sus atributos.
 
-Para construir un objeto, antes hay que definir su clase. Y una clase es una representación abstracta de un objeto en el mundo real. Piensa en una clase como la receta para construir ese objeto real, pero su representación se hará en un programa informático.
+Para construir un objeto, antes hay que definir su clase. Y una clase es una representación abstracta de un objeto en el mundo real. Piensa en una clase como la receta para construir ese objeto real.
 
 Otra de las particularidades de las clases y objetos, es que éstos hay que instanciarlos, porque una cosa es crearlos, pero otra invocarlos. Para instanciar una clase se necesita un constructor, éste puede recibir argumentos (como las [funciones](/15_Funciones/readme.md)) o no recibirlos.
 
