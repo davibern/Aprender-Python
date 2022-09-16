@@ -100,4 +100,4 @@ Ahora vamos con unos [ejercicios](/18_Lista_Compacta/ejercicios_lista_compacta.m
 
 ***
 
-⬅️ [Clase anterior](/17_Clases/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/17_Clases/readme.md) | [Clase siguiente](/19_Excepciones/readme.md) ➡️
