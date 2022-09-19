@@ -63,6 +63,12 @@ Igualmente te dejo aquí también los accesos con un pequeño resumen de qué va
 
 Si no sabes nada de Python, recomiendo encarecidamente empezar por la [instalación](/00_Instalaci%C3%B3n/readme.md).
 
+## Mini proyectos
+
+Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyectos que te muestro a continuación.
+
+* [Piedra Papel Tijera](/98_Mini_Proyectos/piedra_papel_tijera/piedra_papel_tijera.py)
+
 ## ¿Te está gustando el contenido?
 
 Puedes apoyarme concediéndome una ☆ en el repositorio, o bien nominándome al **Github Star**.
