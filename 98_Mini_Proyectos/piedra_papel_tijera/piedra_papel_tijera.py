@@ -1,6 +1,12 @@
 import random
 
 
+'''
+Se trata de jugar contra la máquina a piedra, papel, tijera.
+
+El usuario tendrá que elegir piedra, papel o tijera, y la máquina aleatoriamente elegirá también
+una de las tres opciones.
+'''
 def jugar_piedra_papel_tijera():
     
     usuario = input('Escoje primero tu opción (piedra, papel o tijera):\n').lower()
@@ -14,7 +20,10 @@ def jugar_piedra_papel_tijera():
     
     return '😭😭 ¡Has perdido! 😭😭\nLa IA ha seleccionado ' + ia
 
-    
+
+'''
+Algoritmo que calcula el ganador del juego.
+'''
 def es_empate(usuario, ia):
     
     if ((usuario == 'piedra' and ia == 'tijera')
@@ -23,5 +32,7 @@ def es_empate(usuario, ia):
         return True
     else:
         return False
-    
+
+
+# Ejecución del programa
 print(jugar_piedra_papel_tijera())
