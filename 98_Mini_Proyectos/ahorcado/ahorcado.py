@@ -45,7 +45,12 @@ def ahorcado():
     '''
     while len(letras_por_adivinar) > 0 and vidas > 0:
         # Letras adivinadas
-        print(f'Te quedan {vidas} vidas y has usado estas letras: {" ".join(letras_usadas)}')
+        if vidas == 7:
+            print(f'¡Que empiece el juego!')
+        elif vidas == 1:
+            print(f'Te queda {vidas} vida y has usado estas letras: {" ".join(letras_usadas)}')
+        else:
+            print(f'Te quedan {vidas} vidas y has usado estas letras: {" ".join(letras_usadas)}')
         
         # Estado de la palabra
         # Si la letra usada está en la palabra la incluye, si no, escribe un guión
