@@ -69,6 +69,7 @@ Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyec
 
 * [Piedra Papel Tijera](/98_Mini_Proyectos/piedra_papel_tijera/piedra_papel_tijera.py)
 * [Ahorcado](/98_Mini_Proyectos/ahorcado/)
+* [Algoritmos de búsquedas](/98_Mini_Proyectos/busquedas_eficientes/)
 
 ## ¿Te está gustando el contenido?
 
