@@ -167,4 +167,4 @@ Pues ahora vamos con los [ejercicios](/19_Excepciones/ejercicios_excepciones.md)
 
 ***
 
-⬅️ [Clase anterior](/18_Lista_Compacta/readme.md) | [Clase siguiente]() ➡️
+⬅️ [Clase anterior](/18_Lista_Compacta/readme.md) | [Clase siguiente](/20_Recursividad/readme.md) ➡️
