@@ -40,3 +40,7 @@ Intenta hacerlo tu con varias ejecuciones con este [ejemplo](/20_Recursividad/fi
 También hay otro ejemplo de recursividad en el mini proyecto de [búsqueda binaria](/98_Mini_Proyectos/busquedas_eficientes/busqueda_binaria.py).
 
 Puedes ver más detalles de la recursividad en el vídeo que tienen en [youtube](https://youtu.be/DLikpfc64cA?t=11022) los chicos de [FreeCodeCamp](https://www.freecodecamp.org/learn/).
+
+***
+
+⬅️ [Clase anterior](/20_Recursividad/readme.md) | [Clase siguiente](/21_Archivos/readme.md) ➡️
