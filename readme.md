@@ -60,6 +60,8 @@ Igualmente te dejo aquí también los accesos con un pequeño resumen de qué va
 | 17        | [Clases](/17_Clases/readme.md)           | Clases (objetos)                                       |
 | 18        | [Lista Compacta](/18_Lista_Compacta/)           | Clases (objetos)                                       |
 | 19        | [Exepciones](/19_Excepciones/readme.md)           | Control de Excepciones                                       |
+| 20        | [Recursividad](/20_Recursividad/readme.md)           | Funciones recursivas                                       |
+| 21        | [Archivos](/21_Archivos/readme.md)           | Tratamiento de archivos                                       |
 
 Si no sabes nada de Python, recomiendo encarecidamente empezar por la [instalación](/00_Instalaci%C3%B3n/readme.md).
 
