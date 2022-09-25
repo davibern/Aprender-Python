@@ -37,4 +37,6 @@ Pues nos quedamos con el 2.
 
 Intenta hacerlo tu con varias ejecuciones con este [ejemplo](/20_Recursividad/fibonacci.py), a ver qué te sale 😉
 
+También hay otro ejemplo de recursividad en el mini proyecto de [búsqueda binaria](/98_Mini_Proyectos/busquedas_eficientes/busqueda_binaria.py).
+
 Puedes ver más detalles de la recursividad en el vídeo que tienen en [youtube](https://youtu.be/DLikpfc64cA?t=11022) los chicos de [FreeCodeCamp](https://www.freecodecamp.org/learn/).
