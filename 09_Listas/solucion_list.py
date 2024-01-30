@@ -1,4 +1,7 @@
-# Crea una lista de números de los siguientes valores: 33, 5, 67, 199, 31, 10, 90, 24, 56, 33 y llamala mi_lista.
+"""
+Crea una lista de números de los siguientes valores
+33, 5, 67, 199, 31, 10, 90, 24, 56, 33 y llamala mi_lista.
+"""
 mi_lista = [33, 5, 67, 199, 31, 10, 90, 24, 56, 33]
 
 # Imprime por pantalla la cantidad de elementos que contiene.
@@ -19,7 +22,7 @@ mi_lista.sort()
 print(mi_lista)
 
 # Ordena la lista descendentemente e imprímela por pantalla.
-mi_lista.sort(reverse = True)
+mi_lista.sort(reverse=True)
 print(mi_lista)
 
 # Añade el valor 34 al final, e imprime la lista.
@@ -30,10 +33,10 @@ print(mi_lista)
 mi_lista.insert(5, 1)
 print(mi_lista)
 
-# Calcula la cantidad de valores 33 que existen en la lista y lo imprimes por pantalla.
+# Calcula la cantidad de valores 33 que existen en la lista y muéstralo.
 print(mi_lista.count(33))
 
-# Elimina la posición 4 e imprime la lista por pantalla, e imprímela por pantalla.
+# Elimina la posición 4 e imprime la lista por pantalla y muéstralo.
 mi_lista.pop(4)
 print(mi_lista)
 

@@ -1,12 +1,12 @@
-# Crea una tupla con los valores 1, 2, 3, 4, 5. Llámalo tupla_1, y lo imprimes por pantalla.
+# Crea una tupla con los valores 1, 2, 3, 4, 5. Llámalo tupla_1 y muéstralo.
 tupla_1 = (1, 2, 3, 4, 5)
 print(tupla_1)
 
-# Crea una tupla con los valores 6, 7, 8, 9, 10. Llámalo tupla_2, y lo imprimes por pantalla.
+# Crea una tupla con los valores 6, 7, 8, 9, 10. Llámalo tupla_2 y muéstralo.
 tupla_2 = (6, 7, 8, 9, 10)
 print(tupla_2)
 
-# Crea una tupla con la unión de las dos anteriores y llámala tupla_3 y la imprimes por pantalla.
+# Crea una tupla con la unión de las dos anteriores y muéstralo.
 tupla_3 = tupla_1 + tupla_2
 print(tupla_3)
 

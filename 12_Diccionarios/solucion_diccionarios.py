@@ -1,18 +1,18 @@
 '''
-Crea un diccionario llamado persona, y añadele las siguientes claves con sus valores:
-    * first_name: tu nombre
-    * last_name: tu apellido
-    * edad: tu edad
-    * ciudad: tu ciudad
-    * país: tu pais
+Crea un diccionario llamado persona, y añadele lo siguiente:
+ * first_name: tu nombre
+ * last_name: tu apellido
+ * edad: tu edad
+ * ciudad: tu ciudad
+ * país: tu pais
 '''
 persona = {
-    'first_name' : 'davibern',
-    'last_name' : 'developer',
+    'first_name': 'davibern',
+    'last_name': 'developer',
     'years': 145,
-    'city' : 'Seville',
-    'country' : 'Spain',
-    'hobbies' : ['videogames', 'reading', 'develop']
+    'city': 'Seville',
+    'country': 'Spain',
+    'hobbies': ['videogames', 'reading', 'develop']
 }
 
 # Imprime por pantalla el diccionario.
@@ -33,9 +33,9 @@ persona['city'] = 'In your dreams'
 # Imprime por pantalla el diccionario.
 print(persona)
 
-# Comprueba si el elemento years está en el diccionario e imprímelo por pantalla.
+# Comprueba si el elemento years está en el diccionario  y muéstralo.
 print('years' in persona)
 
-# Elimina el último elemento del dicionario e imprime el diccionario por pantalla.
+# Elimina el último elemento del dicionario  y muéstralo.
 persona.popitem()
 print(persona)

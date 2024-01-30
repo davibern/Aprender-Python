@@ -14,7 +14,9 @@ numeros = [98, 233, 56, 57, 4, 0, -125, 76, -24, 66, 100]
 pares = [i for i in numeros if i % 2 == 0]
 print(numeros)
 
-# Crea una lista que sume el número de la lista + 5, luego lo multiplice por 5 y lo divida entre 2 al final, en un rango del 0 al 10.
+# Crea una lista que sume el número de la lista + 5,
+# luego lo multiplice por 5 y lo divida entre 2 al final,
+# en un rango del 0 al 10.
 numeros = [(i + 5) * 5 / 2 for i in range(11)]
 print(numeros)
 

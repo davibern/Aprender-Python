@@ -20,8 +20,8 @@ True
 # Ejercicio 6
 {
     'nombre_pelicula': 'Batman: El Caballero Oscuro',
-    'director' : 'Christopher Nolan',
-    'estreno' : 2008
+    'director': 'Christopher Nolan',
+    'estreno': 2008
 }
 
 # Ejercicio 7
