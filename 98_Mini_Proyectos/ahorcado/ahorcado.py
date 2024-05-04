@@ -15,15 +15,14 @@ from vidas import interfaz_vidas
 def obtener_palabra(palabras):
     # 1. Seleccionamos una palabra al azar de la lista importada de palabras
     palabra = random.choice(palabras)
-    
     # 2. Pasamos la palabra a mayúscula
     return palabra.upper()
 
 
 def ahorcado():
-    
+
     print("⭐ Bienvenido al Ahorcado ⭐")
-    
+
     # 1. Obtenemos la palabra aleatoria
     palabra = obtener_palabra(palabras)
     # 2. Conjunto de letras que tienen que ser adivinadas (los conjuntos no admiten duplicados)
@@ -36,31 +35,31 @@ def ahorcado():
     letras_usadas = set()
     # Inicializamos las vidas
     vidas = 7
-    
+
     '''
     Algoritmo:
-    
+
     - Bucle donde obtenemos la respuesta del usuario mientras existan letras pendientes
     y al jugador le queden vidas
     '''
     while len(letras_por_adivinar) > 0 and vidas > 0:
         # Letras adivinadas
         if vidas == 7:
-            print(f'¡Que empiece el juego!')
+            print('¡Que empiece el juego!')
         elif vidas == 1:
             print(f'Te queda {vidas} vida y has usado estas letras: {" ".join(letras_usadas)}')
         else:
             print(f'Te quedan {vidas} vidas y has usado estas letras: {" ".join(letras_usadas)}')
-        
+
         # Estado de la palabra
         # Si la letra usada está en la palabra la incluye, si no, escribe un guión
         lista_palabra = [letra if letra in letras_usadas else '-' for letra in palabra]
         print(interfaz_vidas[vidas])
         print(f'Palabra: {" ".join(lista_palabra)}')
-        
+
         # El usuario escoge una letra nueva
         letra_usuario = input('Escoge una letra: ').upper()
-        
+
         # Si la letra escogida está en el abecedario y no está en el conjunto de letras que ya eligió
         # se añaden al conjunto de letras añadidas
         if letra_usuario in abecedario - letras_usadas:
@@ -77,13 +76,13 @@ def ahorcado():
             print('\nYa elegiste esta letra, por favor elige otra.')
         else:
             print('\nEsta letra no es válida')
-    
+
     # El juego llega a esta línea cuando no queden vidas o se adivinen todas las letras de la palabra
     if vidas == 0:
         print(f'¡Ahorcado! Lo siento has perdido 😢, la palabra era {palabra}')
     else:
         print(f'⭐ ¡Has ganado!, adivinaste la palabra {palabra}')
-        
+
 
 if __name__ == '__main__':
     ahorcado()
