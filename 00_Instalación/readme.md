@@ -103,7 +103,7 @@ También podemos mostrar una comparativa y su salida, por ejemplo:
 
 ![Mostrar compartiva de operadores en la shell de python](/99_Imagenes/shell_python_4.png)
 
-Para salir de la shell de Pyton basta con escribir ```quit()```.
+Para salir de la shell de Phyton basta con escribir ```quit()```.
 
 ![Salir de la shell de python](/99_Imagenes/shell_python_5.png)
 
