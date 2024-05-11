@@ -14,7 +14,7 @@ Ya se sabe que la mejor manera de meter información en la cabeza es practicar y
 
 ## Mi Inspiración
 
-Este repositorio lo he creado, como digo anteriormente, para aprender, y me han servido de inspiración un cursos ya creado antes que este, que es:
+Este repositorio lo he creado, como digo anteriormente, para aprender, y me han servido de inspiración un curso ya creado antes que este, que es:
 
 * https://github.com/Asabeneh/30-Days-Of-Python de Asabeneh. Este es un curso preparado para aprender en 30 días. **¡Es una absoluta maravilla!** Eso sí, está en inglés.
 
@@ -31,7 +31,7 @@ Te dejo a continuación algunos enlaces de interés que te pueden venir bien par
 
 ## Guía Rápida
 
-El curso lo estoy estructurando según el árbol de directorios que puedes en la jerarquía de este proyecto. La numeración indica por el tema que deberías empezar si quieres adentrarte en Python tal y como lo estoy haciendo yo.
+El curso lo estoy estructurando según el árbol de directorios que puedes ver en la jerarquía de este proyecto. La numeración indica por el tema que deberías empezar si quieres adentrarte en Python tal y como lo estoy haciendo yo.
 
 De hecho, como me estoy inspirando en el curso de [Asabeneh](/https://github.com/Asabeneh), estoy siguiendo más o menos su línea.
 
