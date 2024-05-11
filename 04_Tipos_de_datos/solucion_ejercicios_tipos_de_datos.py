@@ -29,3 +29,6 @@ True
 
 # Ejercicio 8
 {10.1, 10.1, 23.3, 99.99, 100.1}
+
+# Ejerciico 9
+type(int)

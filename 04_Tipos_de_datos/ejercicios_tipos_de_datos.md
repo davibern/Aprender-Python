@@ -33,3 +33,7 @@ Crea una tupla de valores numéricos enteros, máximo 5 elementos.
 ## Ejercicio 8
 
 Crea un set de 5 elementos decimales. Prueba a incluir algún dato duplicado, ¿a ver qué ocurre? 😯
+
+## Ejercicio 9
+
+Con type calcula el tipo entero

@@ -103,6 +103,16 @@ type((2, 3, 4)) # Tipo Tuple
 type({93.3, 33.23, 36.3}) # Tipo Set
 ```
 
+## Más datos
+
+En realidad para Python todo tiene definido su tipo o clase como un tipo de dato:
+
+- Ficheros
+- Módulos
+- Funciones
+- Excepciones
+- Clases
+
 ## Ejercicios
 
 Ahora que hemos visto todos los tipos de datos en Python es hora de aplicarlos en unos cuantos ejercicios muy básicos.
