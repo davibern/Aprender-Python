@@ -66,7 +66,61 @@ hobbies = ['videogames', 'develop', 'reading']
 
 Te recuerdo que tienes el tema de los [tipos de datos](/04_Tipos_de_datos/readme.md).
 
-## Python infiere el tipo de datos
+## Cómo guarda Python el dato en memoria
+
+Python es muy efectivo con el rendimiento de memoria porque guarda en su espacio de memoria el valor de una variable, y lo referencia a la misma. Por ejemplo, si tenemos una variabla a que vale 5, y una variable b que vale 5 también, lo que hará Python será referenciar para ambas variables el único valor que se ha guardado en el espacio de memoria (5), tal y como se hace con un puntero.
+
+Como consecuencia de esto tenemos el **tipado dinámico**.
+
+Esto tiene algunos matices, como que realmente cuando asignamos un valor a una variable, estamos referenciando dicho valor en el espacio de memoria, y esa referencia no cambia.
+
+Véamoslo con un ejemplo:
+
+```Python
+id(5)
+#10771648
+
+a = 5
+id(a)
+#10771648
+
+b = a
+
+id(b)
+#10771648
+
+a = 7
+
+id(a)
+#10771712
+
+id(7)
+#10771712
+```
+
+Como vemos con estos ejemplos, el valor de 5 es el mismo porque realmente es la misma referencia, y de hecho, como poder podemos cambiar el valor de una referencia, pero lo que estamos haciendo realmente es referenciar otra distinta, no cambiar a la referencia, es un poco lío, lo sé 😵‍💫.
+
+Tenemos incluso el **operador de identidad** para comprobar si una variable es igual a otra, y esto lo hacemos con ```is```, veamos algunos ejemplos:
+
+```Python
+a = 5
+b = 5
+
+a is 5
+# true
+
+a is b
+# true
+
+a is not b
+# false
+
+b = 7
+a is b
+# false
+```
+
+## Python infiere el tipo de datos (tipo dinámico)
 
 Tal y como se explicó en el tema de tipos de datos, **Python infiere de forma dinámica el tipo de dato**. A diferencia de por ejempo Java, donde es imperativo a parte de crear la variable, indicar su tipo.
 
