@@ -129,7 +129,7 @@ El ejercicio contendrá además la resolución por si te atascas, pero recomiend
 
 La solución está en este otro enlace: [solucion ejercicios de datos].
 
-**Intenta hacerlos sin mirar antes 🕵🏻‍♂️
+**Intenta hacerlos sin mirar antes 🕵🏻‍♂️**
 
 [solucion ejercicios de datos]: solucion_ejercicios_tipos_de_datos.py
 
