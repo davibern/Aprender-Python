@@ -121,8 +121,10 @@ A parte de darle a la teoría, hay que practicar 🤓
 
 Accede a los [ejercicios de datos] con el enlace directo o búscalo en el proyecto de github, no tiene pérdida.
 
+
 [ejercicios de datos]: ejercicios_tipos_de_datos.md
 
+(ejercicios_tipos_de_datos.ipynb)
 El ejercicio contendrá además la resolución por si te atascas, pero recomiendo no verlos salvo que no sepas seguir.
 
 La solución está en este otro enlace: [solucion ejercicios de datos].
@@ -130,6 +132,10 @@ La solución está en este otro enlace: [solucion ejercicios de datos].
 **Intenta hacerlos sin mirar antes 🕵🏻‍♂️
 
 [solucion ejercicios de datos]: solucion_ejercicios_tipos_de_datos.py
+
+Los ejercicios también los tienes realizados en un cuaderno (notebook) de jupyter, donde encontrarás tanto texto formateado en markdown como el código de Python que puedes ejecutar si tienes instalado los complementos correspondientes en Visual Studio Code.
+
+[Ejercicios de tipos de datos](/04_Tipos_de_datos/ejercicios_tipos_de_datos.ipynb)
 
 ***
 
