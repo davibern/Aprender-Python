@@ -1,3 +1,4 @@
 {
     "CodeGPT.apiKey": "Ollama",
+    "CodeGPT.Autocomplete.provider": "Ollama - llama3:70b-instruct",
 }
