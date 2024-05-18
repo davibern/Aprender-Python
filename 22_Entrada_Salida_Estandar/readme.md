@@ -73,6 +73,10 @@ Para __formatear__ las salidas ya hemos visto buenas partes de sus posibilidades
 
 Hemos visto como con unas pocas líneas podemos hacer que el usuario interactúe con la aplicación y mostrarles los resultados.
 
+Ahora toca el turno de [Practicar](/22_Entrada_Salida_Estandar/ejercicios_salida_estandar.md). También lo tienes directamente en un cuaderno de [Jupyter](/22_Entrada_Salida_Estandar/ejercicios_salida_estandar.ipynb) si lo prefieres.
+
+Recuerda no ver las soluciones antes salvo que estés muy atascado.
+
 ***
 
 ⬅️ [Clase anterior](/21_Archivos/readme.md) | [Clase siguiente](/98_Mini_Proyectos/) ➡️
