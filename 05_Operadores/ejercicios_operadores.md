@@ -1,6 +1,6 @@
 # Ejercicios de Operadores
 
-Sigue los siugientes puntos, poco a poco, y a ver qué te sale.
+Sigue los siguientes puntos, poco a poco, y a ver qué te sale.
 
 Puedes realizar este ejercicio bien en el shell de Python usando tu terminal o creando un fichero en tu proyecto, tu eliges.
 
