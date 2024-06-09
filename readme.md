@@ -69,9 +69,12 @@ Si no sabes nada de Python, recomiendo encarecidamente empezar por la [instalaci
 
 Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyectos que te muestro a continuación.
 
-* [Piedra Papel Tijera](/98_Mini_Proyectos/piedra_papel_tijera/piedra_papel_tijera.py)
+* [Piedra Papel Tijera](/98_Mini_Proyectos/piedra_papel_tijera/)
 * [Ahorcado](/98_Mini_Proyectos/ahorcado/)
 * [Algoritmos de búsquedas](/98_Mini_Proyectos/busquedas_eficientes/)
+* [Triángulo](/98_Mini_Proyectos/triangulo/)
+* [Triángulo completo](/98_Mini_Proyectos/triangulo_completo/)
+* [Cuadrado](/98_Mini_Proyectos/cuadrado/)
 
 ## ¿Te está gustando el contenido?
 
