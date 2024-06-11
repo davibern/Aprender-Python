@@ -75,6 +75,7 @@ Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyec
 * [Triángulo](/98_Mini_Proyectos/triangulo/)
 * [Triángulo completo](/98_Mini_Proyectos/triangulo_completo/)
 * [Cuadrado](/98_Mini_Proyectos/cuadrado/)
+* [Fibonacci](/98_Mini_Proyectos/fibonacci/)
 
 ## ¿Te está gustando el contenido?
 
