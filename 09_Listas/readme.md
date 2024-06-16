@@ -365,6 +365,15 @@ lista_1.sort(reverse = True) # Descendentemente.
 print(lista_1) # [5, 4, 3, 2, 1]
 ```
 
+## Enumerar la lista con enumerate
+
+Los elementos de una lista podemos enumerarla creándole un índice. Para ello usamos el método _enumerate()_. Este método devuelve un objeto enumerado. Podemos transformarlo a una lista o a un diccionario si lo deseamos. En este caso lo transformaremos a una lista usando el método _list()_.
+
+```Python
+estaciones = ["Primavera", "Verano", "Otoño", "Invierno"]
+print(list(enumerate(estaciones))) # [(0, 'Primavera'), (1, 'Verano'), (2, 'Otoño'), (3, 'Invierno')]
+```
+
 Pues ya hemos terminado esta clase, tengo que darte otra vez mi enhorabuena, porque si has llegado hasta el final, una de dos, o te gusta mucho Python como para dejarlo, o tan mal no lo hago 😜
 
 Vamos a los [ejercicios](/09_Listas/ejercicios_lista.md).
