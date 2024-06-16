@@ -243,6 +243,42 @@ print(a_exist) # True
 
 Si no estuviera, devolvería *False*.
 
+## Accediendo a elementos de una lista
+
+### Elementos fijos de una lista
+
+Podemos obtener una serie de elementos de una lista usando el _slice_, tal y como veremos a continuación. Este acceso se hace con ```:```.
+
+```Python
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lista[1, 5] # Devolverá desde el 2 al 4
+```
+
+### Todos los elementos
+
+Con __::__  podemos obtener todos los elementos de una lista. También podemos usarlo para obtener los elementos de una lista de dos en dos, o de tres en tres, etc. Para ello, usaremos __::2__, __::3__, etc.
+
+```Python
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lista[::] # Devolverá todos los elementos
+lista[::2] # Devolverá los elementos de dos en dos
+lista[::3] # Devolverá los elementos de tres en tres
+```
+
+### Última posición de una lista
+
+Podemos acceder a la última posición con el signo negativo (-).
+
+```Python
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lista[-1] # Devolverá el 10
+```
+
+```Python
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lista[-2] # Devolverá desde el 9
+```
+
 ## Copiar una lista
 
 Podemos copiar una lista simplemente reasigándola a una nueva variable.
