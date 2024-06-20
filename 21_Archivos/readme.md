@@ -1,6 +1,6 @@
 # Archivos
 
-Lo siguiente en programación una vez que sabemos de tipos, condiciones, estructuras de contro, clases, funciones, etc., es poder almacenar nuestros datos en archivos. Trabajar con una fuente de datos y que nuestro programa pueda abrir, leer, escribir y cerrar un fichero.
+Lo siguiente en programación una vez que sabemos de tipos, condiciones, estructuras de control, bucles, listas, diccionarios, tuplas, conjuntos, módulos, paquetes, clases, funciones, etc., es poder almacenar nuestros datos en archivos. Trabajar con una fuente de datos y que nuestro programa pueda abrir, leer, escribir y cerrar un fichero.
 
 Poder tratar con ficheros es una parte fundamental de la programación y veremos en Python lo fácil e intuitivo que es.
 
