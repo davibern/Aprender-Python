@@ -2,11 +2,17 @@
 
 Como ya habrás visto en la [clase de tipos de datos](/04_Tipos_de_datos/readme.md), existen varios tipos de colecciones, este recordatorio lo voy a incluir en cada una de ellas, porque machacar información es también la mejor manera de que entre en la cabezita 🤯
 
-Pero primero, ¿qué es Set?
+Pero primero, ¿qué es diccionario?
  
 > Es una colección de datos desordenada, modificable e indexada, que funciona por par clave-valor, y que no permite duplicados.
 
-Es decir, en Python usamos los sets para almacenar elementos únicos, a los que les podemos ejecutar *uniones*, *intersecciones*, *diferencias*, *simetrías*, etc.
+Es decir, en Python usamos los diccionarios para almacenar elementos únicos, a los que les podemos ejecutar *uniones*, *intersecciones*, *diferencias*, *simetrías*, etc.
+
+Los diccionarios además permiten 2 tipos de indexación, por clave o por valor, y esto es lo que los hace tan potentes y versátiles. Además ¡son mutables!, es decir, podemos modificar su contenido, añadir o eliminar elementos, etc.
+
+Por si no fuera poco, también admite diferentes tipos de datos, como listas, tuplas, sets, etc.
+
+Es que son la monda, ¿verdad? 😊
 
 Y ahora el resto:
 
