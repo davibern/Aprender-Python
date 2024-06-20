@@ -147,7 +147,7 @@ dct = {'key1': '1', 'key2': '2', 'key3': '3'}
 dct.clear()
 ```
 
-## Elimninar un diccionario
+## Elimininar un diccionario
 
 Con ```del``` borramos el diccionario.
 
