@@ -165,6 +165,16 @@ dct = {'key1': '1', 'key2': '2', 'key3': '3'}
 dct_2 = dct.copy()
 ```
 
+## Anexar un diccionario
+
+Podemos añadir un diccionario a otro, como si uieramos añadir una lista a otra. Para esto usamos el método ```update```.
+
+```Python
+dct_1 = {'key1': '1', 'key2': '2', 'key3': '3'}
+dct_2 = {'key4': '4', 'key5': '5', 'key6': '6'}
+dict_1.update(dct_2) # Añade dct_2 a dct_1
+```
+
 ## Obtener las claves de un diccionario como una lista
 
 Con el método ```keys()``` obtendremos una lista de las claves (llaves) del diccionario.
