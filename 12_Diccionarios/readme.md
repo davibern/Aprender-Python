@@ -195,6 +195,16 @@ claves = dct.values()
 print(claves) # Devuelve ['1', '2', '3']
 ```
 
+## Recorrer un diccionario y obtener sus claves y valores
+
+Para recorrer un diccionario y obtener sus claves y valores usamos el bucle ```for```. Lo que haremos será recorrer el diccionario y en cada iteración obtendremos la clave y el valor.
+
+```Python
+dic = {'key1': '1', 'key2': '2', 'key3': '3'}
+for k, v in dic.items():
+    print(k, v) # Devuelve: key1 1, key2 2, key3 3
+```
+
 Y hasta aquí lo más notorio de los diccionarios, como ves, y si ya conoces otros lenguajes de programación, los diccionarios funcionan como una clase.
 
 ☀️ ¡Sigues brillando con tu esfuerzo y dedicación! ☀️
