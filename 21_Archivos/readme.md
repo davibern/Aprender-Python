@@ -46,7 +46,7 @@ Tenemos también la opción de __abrir__ y __cerrar__ el fichero de forma asegur
 
 ```Python
 with open('data.txt') as file:
-    contect = file.read()
+    content = file.read()
     print(content)
 # Mostrará el contenido del archivo
 ```
