@@ -61,7 +61,7 @@ Igualmente te dejo aquí también los accesos con un pequeño resumen de qué va
 | 19        | [Exepciones](/19_Excepciones/readme.md)           | Control de Excepciones                                       |
 | 20        | [Recursividad](/20_Recursividad/readme.md)           | Funciones recursivas                                       |
 | 21        | [Archivos](/21_Archivos/readme.md)           | Tratamiento de archivos                                       |
-| 22        | [Archivos](/22_Archivos_CSV/readme.md)           | Ficheros CSV                                       |
+| 22        | [Archivos CSV](/22_Archivos_CSV/readme.md)           | Ficheros CSV                                       |
 | 24        | [Entrada y salida estándar](/24_Entrada_Salida_Estandar/readme.md)           | Tratamiento de archivos                                       |
 
 Si no sabes nada de Python, recomiendo encarecidamente empezar por la [instalación](/00_Instalaci%C3%B3n/readme.md).
