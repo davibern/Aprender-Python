@@ -1,4 +1,4 @@
-# Archivos
+# Archivos (ficheros)
 
 Lo siguiente en programación una vez que sabemos de tipos, condiciones, estructuras de control, bucles, listas, diccionarios, tuplas, conjuntos, módulos, paquetes, clases, funciones, etc., es poder almacenar nuestros datos en archivos. Trabajar con una fuente de datos y que nuestro programa pueda abrir, leer, escribir y cerrar un fichero.
 
@@ -33,7 +33,7 @@ Por último, cuando terminamos de trabajar con un fichero hay que cerrarlo con e
 
 Si no se especifica nada, el fichero se abrirá siempre en modo lectura, es decir, podemos usar ```open(filename)``` y no es necesario que indimos ni "r" ni "rt".
 
-```open()``` tiene varios métodos interesantes, pero se sólo abrimos el fichero y lo mostramos por pantalla, obtendremos información básica.
+```open()``` tiene varios métodos interesantes, pero si sólo abrimos el fichero y lo mostramos por pantalla, obtendremos información básica. Y con el método __close__  lo cerramos. Podemos comprobar si un fichero está cerrado además con el método __closed__, que devolverá verdadero o faslo según el caso.
 
 ```Python
 file = open('data.txt')
