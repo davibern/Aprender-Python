@@ -43,4 +43,4 @@ Puedes ver más detalles de la recursividad en el vídeo que tienen en [youtube]
 
 ***
 
-⬅️ [Clase anterior](/20_Recursividad/readme.md) | [Clase siguiente](/21_Archivos/readme.md) ➡️
+⬅️ [Clase anterior](/19_Excepciones/readme.me) | [Clase siguiente](/21_Archivos/readme.md) ➡️
