@@ -199,3 +199,7 @@ except FileNotFoundError:
 ```
 
 Como digo, siempre es mejor usar el ```try-except``` para comprobar errores, por ejemplo, que el fichero exista, se pueda modificar, tengamos permisos, etc.
+
+***
+
+⬅️ [Clase anterior](/20_Recursividad/readme.md) | [Clase siguiente](/22_Entrada_Salida_Estandar/readme.md) ➡️
