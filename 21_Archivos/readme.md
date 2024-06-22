@@ -42,6 +42,15 @@ file.close()
 # <_io.TextIOWrapper name='data.txt' mode='r' encoding='cp1252'>
 ```
 
+Tenemos también la opción de __abrir__ y __cerrar__ el fichero de forma asegurada con el bloque __with__, que nos asegura que el fichero se cerrará al terminar el bloque, incluso si se produce un error. Esto es muy útil para evitar errores de memoria y para asegurarnos de que el fichero se cerrará correctamente.
+
+```Python
+with open('data.txt') as file:
+    contect = file.read()
+    print(content)
+# Mostrará el contenido del archivo
+```
+
 He creado el fichero [data.txt](/21_Archivos/data.txt) por si quieres ir paso a paso conmigo.
 
 Ahora vamos a leer el contenido del fichero, para eso vamos a usar el método ```read()```. Aunque antes, si te fichas en mi ejemplo, he abierto un fichero y su contenido lo he guardado en una variable llamada ```file```. Tiene sentido, porque si no lo guardamos en memoria, no podremos trabajar luego con el 🤯.
