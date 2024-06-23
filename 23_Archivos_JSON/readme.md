@@ -32,3 +32,7 @@ Ahora si accedo a un elemento del diccionario, tendré de vuelta su valor corres
 ```Python
 datos["edad"] # 25
 ```
+
+***
+
+⬅️ [Clase anterior](/22_Archivos_CSV/readme.md) | [Clase siguiente](/24_Entrada_Salida_Estandar/readme.md) ➡️

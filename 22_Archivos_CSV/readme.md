@@ -53,3 +53,7 @@ Este método recibe como parámetro el fichero abierto en modo escritura y el se
 csv_writer = csv.writer(f, delimiter=',')
 csv_writer = csv.writer(['Elena', 'Fernández', '28'])
 ```
+
+***
+
+⬅️ [Clase anterior](/21_Archivos/readme.md) | [Clase siguiente](/23_Archivos_JSON/readme.md) ➡️
