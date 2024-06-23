@@ -56,20 +56,21 @@ Igualmente te dejo aquí también los accesos con un pequeño resumen de qué va
 | 7        | [Variables](/07_Variables/readme.md)           | Crear variables, instanciarlas y tiparlas                                         |
 | 8        | [Strings](/08_Strings/readme.md)           | Aprender a trabajar con Strings                                         |
 | 9        | [Listas](/09_Listas/readme.md)           | Aprender a trabajar con Listas                                         |
-| 10        | [Tuplas](/10_Tuplas/readme.md)           | Aprender a trabajar con Tuplas                                         |
-| 11        | [Conjuntos](/11_Sets/readme.md)           | Aprender a trabajar con Conjuntos (Sets)                                         |
-| 12        | [Diccionarios](/12_Diccionarios/readme.md)           | Aprender a trabajar con Diccionarios                                         |
-| 13        | [Condicionales](/13_Condicionales/readme.md)           | Estructura de control: condicionales (if)                                         |
-| 14        | [Bucles](/14_Bucles/readme.md)           | Estructura de control: bucles (loops)                                         |
-| 15        | [Funciones](/15_Funciones/readme.md)           | Funciones                                       |
-| 16        | [Módulos](/16_Modulos/readme.md)           | Módulos (paquetes)                                       |
-| 17        | [Clases](/17_Clases/readme.md)           | Clases (objetos)                                       |
-| 18        | [Lista Compacta](/18_Lista_Compacta/)           | Clases (objetos)                                       |
-| 19        | [Exepciones](/19_Excepciones/readme.md)           | Control de Excepciones                                       |
-| 20        | [Recursividad](/20_Recursividad/readme.md)           | Funciones recursivas                                       |
-| 21        | [Archivos](/21_Archivos/readme.md)           | Tratamiento de archivos                                       |
-| 22        | [Archivos CSV](/22_Archivos_CSV/readme.md)           | Ficheros CSV                                       |
-| 24        | [Entrada y salida estándar](/24_Entrada_Salida_Estandar/readme.md)           | Tratamiento de archivos                                       |
+| 10       | [Tuplas](/10_Tuplas/readme.md)           | Aprender a trabajar con Tuplas                                         |
+| 11       | [Conjuntos](/11_Sets/readme.md)           | Aprender a trabajar con Conjuntos (Sets)                                         |
+| 12       | [Diccionarios](/12_Diccionarios/readme.md)           | Aprender a trabajar con Diccionarios                                         |
+| 13       | [Condicionales](/13_Condicionales/readme.md)           | Estructura de control: condicionales (if)                                         |
+| 14       | [Bucles](/14_Bucles/readme.md)           | Estructura de control: bucles (loops)                                         |
+| 15       | [Funciones](/15_Funciones/readme.md)           | Funciones                                       |
+| 16       | [Módulos](/16_Modulos/readme.md)           | Módulos (paquetes)                                       |
+| 17       | [Clases](/17_Clases/readme.md)           | Clases (objetos)                                       |
+| 18       | [Lista Compacta](/18_Lista_Compacta/)           | Clases (objetos)                                       |
+| 19       | [Exepciones](/19_Excepciones/readme.md)           | Control de Excepciones                                       |
+| 20       | [Recursividad](/20_Recursividad/readme.md)           | Funciones recursivas                                       |
+| 21       | [Archivos](/21_Archivos/readme.md)           | Tratamiento de archivos                                       |
+| 22       | [Archivos CSV](/22_Archivos_CSV/readme.md)           | Ficheros CSV                                       |
+| 23       | [Archivos JSON](/22_Archivos_JSON/readme.md)           | Ficheros CSV                                       |
+| 24       | [Entrada y salida estándar](/24_Entrada_Salida_Estandar/readme.md)           | Tratamiento de archivos                                       |
 
 Si no sabes nada de Python, recomiendo encarecidamente empezar por la [instalación](/00_Instalaci%C3%B3n/readme.md).
 
