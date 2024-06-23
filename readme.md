@@ -31,8 +31,8 @@ Quiero dejar constancia que este repositorio es explicando los conceptos a mi ma
 ¿Y qué IDE (entorno de desarrollo) usar para programar en __Python__? Esto va por gustos y colores, pero te voy a pasar una lista de entornos y ya tú eliges el que más te guste o el que más te convenga para tu caso de uso.
 
 * [Visual Studio Code](https://code.visualstudio.com): es gratuito y multiplataforma. Creo que es difícil que alguien no conozca este editor de Microsoft.
-* [Pycharm](https://www.jetbrains.com/pycharm/): famoso entorno de desarrollo de JetBrains, y posiblmente uno de los más completos. No es gratuito (sólo dan 30 días de prueba), salvo que tengas seas estudiante.
-* [Pydev](https://www.pydev.org/): entorno que seguramente no tiene tantas funcionalidades que el anterior, pero cumple con lo mínimo para poder trabar con este maravillo lenguaje. ¡Y gratuito por supuesto!
+* [Pycharm](https://www.jetbrains.com/pycharm/): famoso entorno de desarrollo de JetBrains, y posiblemente uno de los más completos. No es gratuito (sólo dan 30 días de prueba), salvo que seas estudiante.
+* [Pydev](https://www.pydev.org/): entorno que seguramente no tiene tantas funcionalidades como el anterior, pero cumple con lo mínimo para poder trabajar con este maravillo lenguaje. ¡Y gratuito por supuesto!
 
 Hay muchos más, pero estos son los que más me han llamado la atención. Puedes buscar más en google si estos no terminan de convencerte.
 
