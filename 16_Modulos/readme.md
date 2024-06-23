@@ -1,10 +1,16 @@
-# Módulos
+# Módulos y Paquetes
 
 Un ```módulo``` es un conjunto de archivos (uno o varios) o bien un conjunto de funciones que pueden incluirse en una aplicación.
 
 Es decir, un módulo podría ser un archivo, varios archivos, una función o varias funciones, que te servirán para poder incluir su código en otra aplicación.
 
 La idea es tener un programa para incluirlo en otro programa, y que ésto pueda ahorrar trabajo en un futuro, o tener el código bien estructurado.
+
+En __Python__ cualquier fichero es un mòdulo, y podemos importarlo en otro fichero para poder usarlo. Los módulos en __Python__ son archivos con extensión .py.
+
+Un ```paquete``` es un conjunto de módulos, que se agrupan en una carpeta, y que se puede importar en otro fichero para poder usarlo. Los paquetes en __Python__ son carpetas que contienen archivos con extensión .py y un archivo llamado __init__.py que indica que es un paquete.
+
+Este fichero ```init``` puede estar vacío, o contener código que se ejecutará al importar el paquete. Por ejemplo, se puede usar para importar todos los módulos del paquete, o para definir variables que se puedan usar en otros módulos del paquete.
 
 ## Crear un módulo e importarlo
 
