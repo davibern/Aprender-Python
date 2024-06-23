@@ -4,6 +4,8 @@
 
 ![Python](https://www.python.org/static/img/python-logo.png)
 
+## Motivación
+
 Este repositorio lo he creado con la finalidad de ir aprendiendo Python poco a poco. 🐍
 
 Lo poco que he visto del lenguaje me está gustando mucho, así que me he dicho, ¿por qué no hacer una pequeña guía del lenguaje con lo que vayas aprendiendo?
@@ -16,18 +18,23 @@ Ya se sabe que la mejor manera de meter información en la cabeza es practicar y
 
 Este repositorio lo he creado, como digo anteriormente, para aprender, y me han servido de inspiración un curso ya creado antes que este, que es:
 
-* https://github.com/Asabeneh/30-Days-Of-Python de Asabeneh. Este es un curso preparado para aprender en 30 días. **¡Es una absoluta maravilla!** Eso sí, está en inglés.
+* https://github.com/Asabeneh/30-Days-Of-Python de [Asabeneh](https://twitter.com/AsabenehY). Este es un curso preparado para aprender en 30 días. **¡Es una absoluta maravilla!** Eso sí, está en inglés.
 
 Quiero dejar constancia que este repositorio es explicando los conceptos a mi manera, siendo fiel (si los errores me lo permiten) a la documentación oficial.
 
 **Por ello la documentación oficial deberá ser siempre tu fuente principal de consulta y no yo** (por si caes aquí de pura casualidad 😜).
 
-## Enlaces de interés
+> Te dejo aquí la [página oficial de Python](https://docs.python.org/es/3/tutorial/index.html) para que la tengas de referencia.
 
-Te dejo a continuación algunos enlaces de interés que te pueden venir bien para aprender Python:
+## Entornos para programar en Python
 
-* [Página oficial de Python](https://docs.python.org/es/3/tutorial/index.html)
-* [Visual Studio Code](https://code.visualstudio.com)
+¿Y qué IDE (entorno de desarrollo) usar para programar en __Python__? Esto va por gustos y colores, pero te voy a pasar una lista de entornos y ya tú eliges el que más te guste o el que más te convenga para tu caso de uso.
+
+* [Visual Studio Code](https://code.visualstudio.com): es gratuito y multiplataforma. Creo que es difícil que alguien no conozca este editor de Microsoft.
+* [Pycharm](https://www.jetbrains.com/pycharm/): famoso entorno de desarrollo de JetBrains, y posiblmente uno de los más completos. No es gratuito (sólo dan 30 días de prueba), salvo que tengas seas estudiante.
+* [Pydev](https://www.pydev.org/): entorno que seguramente no tiene tantas funcionalidades que el anterior, pero cumple con lo mínimo para poder trabar con este maravillo lenguaje. ¡Y gratuito por supuesto!
+
+Hay muchos más, pero estos son los que más me han llamado la atención. Puedes buscar más en google si estos no terminan de convencerte.
 
 ## Guía Rápida
 
@@ -78,13 +85,17 @@ Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyec
 * [Cuadrado](/98_Mini_Proyectos/cuadrado/)
 * [Fibonacci](/98_Mini_Proyectos/fibonacci/)
 
-## ¿Te está gustando el contenido?
+## Créditos y reconocimientos
 
-Puedes apoyarme concediéndome una ☆ en el repositorio, o bien nominándome al **Github Star**.
+Este respositorio de conocimiento y aprendizaje está mantenido por mi, [David Bernabé](https://github.com/davibern).
+
+Como he comentado al inicio, es una adaptación del [curso de Python en 30 días](https://github.com/Asabeneh/30-Days-Of-Python) al cual no puedo dejar de mencionarlo y darle las gracias por su gran aportación a la comunidad de Python 😊.
+
+Puedes echarle un vistazo también a las contribuciones que se han realizado al proyecto: https://github.com/davibern/Aprender-Python/graphs/contributors
+
+Puedes apoyarme concediéndome una ☆ en el repositorio, o bien nominándome al **Github Star**: [https://stars.github.com/nominate/](https://stars.github.com/nominate/).
 
 Sé que será prácticamente imposible que nadie lo haga porque tengo repercusión cero, ¿pero quién dijo miedo? 🤪
-
-[https://stars.github.com/nominate/](https://stars.github.com/nominate/)
 
 ***
 
