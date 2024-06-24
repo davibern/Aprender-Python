@@ -9,6 +9,8 @@ Las funciones pueden hacer principalmente dos cosas:
 * Realizar una ejecución sin devolver nada.
 * Realizar una ejecución devolviendo un dato.
 
+Ten en cuenta además que como en ```Python``` todo es un objeto, las funciones también lo son, __por lo que puedes asignar una función a una variable, y pasar una función como parámetro de otra función__.
+
 Además, si te fijas, ya has estado usando funciones desde el principio, ahora la diferencia, es que vamos a crearla.
 
 En Python, una función se define por la palabra reservada ```def```.
@@ -60,6 +62,22 @@ def decir_hola(nombre):
     print('Buenos días', nombre)
 decir_hola(nombre)
 # 'Buenos días davibern'
+```
+
+Ahora bien, si quiero usar la variable de forma global, aunque esté definida dentro de una función, también se puede hacer. Recuerda que una función es también un __objeto__, por lo que puedes devolver un dato desde una función.
+
+Esto lo haremos con la palabra reservada ```global``` y el nombre de la variable. Ahora bien, esto no es una buena práctica, ya que si tienes muchas funciones, y estás usando variables globales, puede que te encuentres con problemas de legibilidad y mantenimiento de tu código, así que no lo hagas, pero es bueno que sepas que se puede hacer, y que es una opción que tienes disponible si lo necesitas.
+
+Vamos a ver un ejemplo de lo que te comento.
+
+```Python
+def operar(a, b):
+    global resultado
+    resultado = a + b
+    print(resultado)
+
+operar(2, 3)
+print(resultado)
 ```
 
 Una función puede incluir tantos parámetros como nos haga falta en el diseño de la misma.
