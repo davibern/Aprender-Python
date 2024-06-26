@@ -180,7 +180,7 @@ print(suma(100, 1, 2, 3))
 
 ## Funciones dentro de funciones
 
-Y para rizar el rizo, podemos llamar a una función dentro de otra función. Esto es de lo más normal en programación.
+Podemos llamar a una función dentro de otra función. Esto es de lo más normal en programación.
 
 ```Python
 def nombre(nombre):
@@ -192,7 +192,101 @@ print(longitud_nombre(nombre('davibern')))
 # Devolverá 8
 ```
 
-Puede que el ejemplo no sea el mejor del mundo, pero espero que se capte el mensaje 🤓
+## Funciones recursivas
+
+Una __función recursiva__ es una función que se llama a si misma. Esto puede ser muy útil, por ejemplo, para recorrer una estructura de datos, como una lista, o un diccionario, o un árbol, etc. Pero hay que tener cuidado, porque si no se controla bien, puede que la función se llame a si misma indefinidamente, y esto puede provocar un error de pila de llamadas.
+
+Un ejemplo de función recursiva sería por ejemplo el factorial de un número.
+
+```Python
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
+```
+
+Esta función calcula el factorial de un número. El factorial de un número es el producto de todos los números enteros positivos desde 1 hasta ese número. Por ejemplo, el factorial de 5 es 5 * 4 * 3 * 2 * 1 = 120.
+
+## Referenciar  funciones en variables
+
+Como ya hemos comentado en ```Python``` todo es un objeto, y las funciones también. Puedes crear una función que ésta la puedes asignar a una variable y hacer que ésta sea también la misma función.
+
+Mejor lo ves con este ejemplo:
+
+```Python
+def suma(a, b):
+    return a + b
+
+a = suma
+
+print(a(5, 3))
+# Devolverá 8
+```
+
+## Funciones anónimas o lambda
+
+Las funciones anónimas o ```lambda``` son funciones que no tienen nombre, y que se definen en una sola línea. Se utilizan para definir funciones pequeñas y simples, que no se van a utilizar en otro sitio. Se definen con la palabra reservada __lamba__, y se utilizan de la siguiente manera:
+
+```Python
+cuadrado = lambda x: x ** 2
+print(cuadrado(5))
+# Devolverá 25
+```
+
+Y para qué podemos usar una lambda, pues por ejemplo, para ordenar una lista.
+
+```Python
+pares = [(1, 'one'), (2, 'two'), (3, 'three'), (4, 'four'), (5, 'five')]
+# Ahora cambiaremos la ordenación  de la lista por el segundo elemento de la tupla, es decir, el número, y no por el string.
+pares.sort(key=lambda x: x[1])
+print(pares)
+# Devolverá [(2, 'two'), (4, 'four'), (1, 'one'), (3, 'three'), (5, 'five')]
+```
+
+## Decoradores en funciones
+
+Un __decorador__ es una función que toma otra función y extiende el comportamiento de la segunda función sin cambiar su código. Por ejemplo imaginar que estamos haciendo algunas operaciones que tienen una primera parte que es muy similar (por ejemplo funciones que conectan con una base de datos, o abrir ficheros de texto), y todas las funciones una parte que es igual.
+
+Pues podemos crear un decorador que se encargue de la parte común, y que las funciones que queramos que tengan ese comportamiento, se las pasemos como parámetro al decorador. Y el decorador se encargará de ejecutar la parte común, y luego ejecutará la función que le hemos pasado como parámetro.
+
+Vamos a verlo con un ejemplo:
+
+```Python
+def tablas(funcion):
+    def envoltura(tabla=1):
+        print('Tabla del %i:' %tabla)
+        print('-' * 15)
+        for numero in range(0, 11):
+            funcion(numero, tabla)
+        print('-' * 15)
+    return envoltura
+
+@tablas
+def suma(numero, tabla=1):
+    print('%2i + %2i = %3i' %(numero, tabla, numero + tabla + numero))
+
+@tablas
+def multiplicar(numero, tabla=1):
+    print('%2i x %2i = %3i' %(numero, tabla, numero * tabla))
+```
+
+## Generadores
+
+Es un tipo especial de función que generan un iterador, y por lo tanto es una función que crea un generador, por cada vez que se ejecuta. Es decir, cada vez que se ejecuta la función, se crea un nuevo generador, y se puede recorrer ese generador con un bucle desde el último ítem que se haya recorrido hasta el final. Es decir, no se puede volver atrás, y no se puede acceder a un ítem concreto, solo se puede recorrer secuencialmente. Y cuando se llega al final, se vuelve a empezar desde el principio.
+
+Veámoslo mejor con un ejemplo.
+
+```Python
+def par(inicio, fin):
+    for i in range(inicio, fin):
+        if i % 2 == 0:
+            yield i
+
+par(1, 10) # Devuelve un generador, que se puede recorrer con un bucle for, o con la función next()
+for i in par(1, 10): # Devuelve 2, 4, 6, 8
+    print(i)
+```
 
 😀 Estamos llegando bastante lejos, y estás siendo muy perseverante, mi más sincera enhorabuena 😀
 
