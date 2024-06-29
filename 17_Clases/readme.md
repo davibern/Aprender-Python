@@ -63,6 +63,8 @@ En este ejemplo, no hay atributos, pero ¿qué son los atributos de clase?
 
 Un atributo de clase es una descripción de nuestro objeto. Para seguir con nuestro ejemplo, ```Persona``` tendrá un nombre, unos apellidos y por ejemplo una edad. Los atributos, por norma general, se declaran antes del constructor, y no dejan de ser variables internas de la clase.
 
+> A diferencia de otros lenguajes como __Java__ los atributos no tienen propiedades de vistibilidad, es decir, no hay atributos privados o públicos, todos son accesibles desde cualquier parte del código.
+
 ```Python
 class Persona:
     
@@ -116,6 +118,39 @@ class Persona:
 
 p = Persona('davibern', 'dev', 300)
 p.__str__()
+```
+
+### Atributo de objeto
+
+Un atributo de objeto es aquel que pertenece al método y que aunque no se haya declarado en la clase, se puede usar en el método. Incluso podemos obtener y modificar su valor invocando al objeto desde fuera de la clase.
+
+```Python
+class Alumno():
+    contador = 0
+
+    def __init__(self, nombre=""):
+        self.nombre = nombre
+        Alumno.contador += 1
+
+alumno = Alumno("davibern")
+alumno.nombre # davibern
+alumno.contador # 1
+```
+
+Antes he comentado que los atributos en __Python__ son públicos y accesibles, no como en otros lenguajes que podemos ofuscar este dato. Pero hay una forma de poder configurar un atributo de objeto como público, y es usando la barra baja en la definición del atributo (_).
+
+> Pero OJO!, esto realmente es una convención entre desarrolladores, y cuando un programador le añade la barra baja al nombre, le está diciendo al resto que se recomienda no usar fuera de la clase a dicho atributo.
+
+Vamos al ejemplo anterior y vamos a añadirle un atributo privado.
+
+```Python
+class Alumno():
+    contador = 0
+
+    def __init__(self, nombre=""):
+        self.nombre = nombre
+        self._edad = edad
+        Alumno.contador += 1
 ```
 
 ## Herencia
