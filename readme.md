@@ -85,6 +85,7 @@ Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyec
 * [Triángulo completo](/98_Mini_Proyectos/triangulo_completo/)
 * [Cuadrado](/98_Mini_Proyectos/cuadrado/)
 * [Fibonacci](/98_Mini_Proyectos/fibonacci/)
+* [La Liga](/98_Mini_Proyectos/liga/readme.md)
 
 ## Créditos y reconocimientos
 
