@@ -153,6 +153,10 @@ class Alumno():
         Alumno.contador += 1
 ```
 
+Ahora bien, sí que una forma de que no pueda acceder "directamente" y es con las dos barras bajas __.
+
+Esto hará que si accedemos a la propiedad nos de un error. Pero, hay formas de saltárselo, como acceder primero a la clase y luego al atributo.
+
 ## Herencia
 
 La herencia nos permite reutilizar toda una clase en la nueva que la implemente. De nuevo nos encontramos con fórmulas para poder reutilizar nuestro código sin necesidad de reescribirlo.
@@ -217,6 +221,32 @@ class Profesor(Persona):
 
 p = Profesor('davibern', 'dev', 300)
 p.__str__()
+```
+
+## Encapsulamiento
+
+El encapsulamiento en programación orientada a objetos  es el mecanismo que permite restringir el acceso a los componentes internos de un objeto, como sus atributos y métodos, para protegerlos de modificaciones no autorizadas y garantizar la integridad y la consistencia de los datos. Esto se logra mediante el uso de modificadores de acceso, como público, privado y protegido, que determinan el nivel de visibilidad y accesibilidad de los componentes del objeto.
+
+Pero claro, como te he comentado antes, __¡Python no tiene modificadores de acceso!__, pero si que podemos simularlos usando la barra baja en el nombre de los atributos y métodos que queramos que sean privados. Pero como te he comentado antes, esto es una convención entre desarrolladores, y no es una regla que se aplique en el lenguaje. Pero bueno, vamos a verlo con un ejemplo.
+
+```Python
+class cuadrado():
+    def __init__(self, lado):
+        self.lado = lado
+        self.__area = self.lado * self.lado
+        
+    def get_area(self):
+        return self.__area
+        
+    def set_area(self, lado):
+        self.lado = lado
+        self.__area = self.lado * self.lado
+        
+c = cuadrado(5)
+c.get_area() # 25
+c.set_area(10)
+c.get_area() # 100
+c.__area # AttributeError: 'cuadrado' object has no attribute '__area'
 ```
 
 🧑🏻‍💻 ¡Vas increíblemente bien! Poco a poco y con firmeza, vamos avanzando con Python.
