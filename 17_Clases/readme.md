@@ -229,6 +229,8 @@ El encapsulamiento en programación orientada a objetos  es el mecanismo que per
 
 Pero claro, como te he comentado antes, __¡Python no tiene modificadores de acceso!__, pero si que podemos simularlos usando la barra baja en el nombre de los atributos y métodos que queramos que sean privados. Pero como te he comentado antes, esto es una convención entre desarrolladores, y no es una regla que se aplique en el lenguaje. Pero bueno, vamos a verlo con un ejemplo.
 
+Que por cierto, importante comentar que el encapsulamiento necesita que haya ciertos métodos para poder acceder al atributo y luego modificarlo, éstos se llaman __getters__ y __setters__.
+
 ```Python
 class cuadrado():
     def __init__(self, lado):
