@@ -251,6 +251,32 @@ c.get_area() # 100
 c.__area # AttributeError: 'cuadrado' object has no attribute '__area'
 ```
 
+Puedes que pienses que estoy es muy lioso si realmente podemos acceder al atributo. ¿Qué necesidad hay hacer un __getter__ y __setter__ si puedo acudir al atributo, leerlo o modificarlo?
+
+Realmente tienes razón al pensar así, por eso tenemos también la opción de crear un __getter__ que tenga el decorador de __@property__, y así podremos acceder al atributo como si fuera una propiedad de la clase, y no como un atributo. Pero bueno, vamos a verlo con un ejemplo.
+
+```Python
+class cuadrado():
+    def __init__(self, lado):
+        self.lado = lado
+        self.__area = self.lado * self.lado
+        
+    @property
+    def area(self):
+        return self.__area
+        
+    @area.setter
+    def area(self, lado):
+        self.lado = lado
+        self.__area = self.lado * self.lado
+        
+c = cuadrado(5)
+c.area # 25
+c.area = 10
+c.area # 100
+c.__area # AttributeError: 'cuadrado' object has no attribute '__area'
+```
+
 🧑🏻‍💻 ¡Vas increíblemente bien! Poco a poco y con firmeza, vamos avanzando con Python.
 
 Ahora vamos con unos [ejercicios](/17_Clases/ejercicios_clases.md) básicos.
