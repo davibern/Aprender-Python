@@ -84,7 +84,7 @@ def info_equipos(liga, *equipos):
         resultado.append(puntos(resultado))
         resultado.insert(0, equipo)
 
-        resultado.append(tuple(resultado))
+        resultados.append(tuple(resultado))
     return resultados
 
 
