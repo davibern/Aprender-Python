@@ -277,6 +277,31 @@ c.area # 100
 c.__area # AttributeError: 'cuadrado' object has no attribute '__area'
 ```
 
+## Polimorfismo
+
+El __polimorfismo__ es una característica de la programación orientada a objetos que permite que objetos de diferentes clases sean tratados como objetos de una clase común. Esto significa que se pueden utilizar métodos y atributos comunes para realizar operaciones en objetos de diferentes tipos, sin necesidad de conocer su tipo específico. El polimorfismo se logra mediante la sobrecarga de métodos, la herencia y el uso de interfaces.
+
+Mira el siguiente ejemplo.
+
+```Python
+class Gato():
+    def sonido(self):
+        return 'Miau!'
+
+class Perro():
+    def sonido(self):
+        return 'Guau!'
+
+def hacer_sonido(animal_type):
+    return animal_type.sonido()
+
+gato = Gato()
+perro = Perro()
+
+print(hacer_sonido(gato)) # Miau!
+print(hacer_sonido(perro)) # Guau!
+```
+
 🧑🏻‍💻 ¡Vas increíblemente bien! Poco a poco y con firmeza, vamos avanzando con Python.
 
 Ahora vamos con unos [ejercicios](/17_Clases/ejercicios_clases.md) básicos.
