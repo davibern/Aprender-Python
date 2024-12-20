@@ -86,7 +86,7 @@ El operador OR, que signfica O, funciona de tal forma que necesita sólo que una
 
 **Operador XOR**
 
-Esta se da menos, se llama **OR Exclusivo**, es decir, que implementa el O únicamente. Me explico, una salida verdadera resulta si una, y sólo una de las entradas a la puerta es verdadera. Si ambas entradas son falsas, o ambas son verdaderas, resulta en una salida falsa. Sé que cuesta un poco de entender, pero piensa que necesitas que una sea falta y otra verdadera para devolver verdadero, si ambas son iguales, es falso.
+Esta se da menos, se llama **OR Exclusivo**, es decir, que implementa el O únicamente. Me explico, una salida verdadera resulta si una, y sólo una de las entradas a la puerta es verdadera. Si ambas entradas son falsas, o ambas son verdaderas, resulta en una salida falsa. Sé que cuesta un poco de entender, pero piensa que necesitas que una sea falsa y otra verdadera para devolver verdadero, si ambas son iguales, es falso.
 
 El operador en Python es '^'.
 
