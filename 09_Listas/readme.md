@@ -310,6 +310,19 @@ lista_completa = lista_1 + lista_2
 print(lista_completa) # [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ```
 
+Pero este método no se recomienda porque es más lento al tener que copiar primero la lista para manipularla después.
+
+Lo mejor en este caso sería de la siguiente forma:
+
+```Python
+lista_1 = [1, 2, 3, 4, 5]
+lista_2 = [6, 7, 8, 9 10]
+lista_1 += lista_2
+print(lista_completa) # [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+```
+
+Esto es más eficiente que el primer método.
+
 ### Unir usando el método extend()
 
 Es igual que el anterior, pero usando el método ```extend()``` e incluyendo como argumento la lista a unificar.
