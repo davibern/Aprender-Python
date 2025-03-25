@@ -1,6 +1,8 @@
 # Aprender Python
 
 ![Python](https://img.shields.io/badge/Python-3.10-green?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.11-green?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-green?style=for-the-badge&logo=python)
 
 ![Python](https://www.python.org/static/img/python-logo.png)
 
