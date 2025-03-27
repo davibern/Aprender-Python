@@ -4,7 +4,7 @@ Una de las primeras cosas que tenemos que aprender en un lenguaje de programaci�
 
 Son importantes para documentar nuestras líenas de código, aquellas partes que sean importantes dejarlas claras.
 
-Así pues tenemos dos formas:
+Tenemos dos formas:
 
 - Comentar una línea usando el símbolo ```#``` y posteriormente incluir las explicaciones.
 - Comentar varias líneas usando ```''' '''```.
@@ -29,6 +29,16 @@ Este es un comentario multilínea.
 Se puede añadir el texto de una forma más cómoda
 si necesitamos más espacio
 '''
+```
+
+¿Y cómo se comentan las funciones? Bueno, aún no hemos llegado a eso, pero como buena práctica se recomienda que el comentario sea multilínea y dentro de la propia función.
+
+```Python
+def mi_funcion():
+    '''
+    Esta función hace bla blab bla
+    '''
+    return None
 ```
 
 ## Practica los comentarios
