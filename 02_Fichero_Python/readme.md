@@ -30,7 +30,7 @@ Se abrirá la terminal por defecto, si no la tuvieras abierta, con la salida est
 
 ## 2. Desde la Terminal
 
-Si prefieres ejecutar tu fichero desde la shell de Python tienes que llamar al binario, es decir, al fichero, desde la terminal de Python. 
+Si prefieres ejecutar tu fichero desde la shell de Python tienes que llamar al fichero desde la terminal de Python. 
 
 Si estás ejecutando el fichero en el terminal desde el mismo directorio te bastará con indicar el nombre, pero si estás en otro directorio habrá que añadir su referencia absoluta.
 
