@@ -88,6 +88,7 @@ Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyec
 * [Cuadrado](/98_Mini_Proyectos/cuadrado/)
 * [Fibonacci](/98_Mini_Proyectos/fibonacci/)
 * [La Liga](/98_Mini_Proyectos/liga/readme.md)
+* [Número Primo](/98_Mini_Proyectos/numeros_primos/)
 
 ## Créditos y reconocimientos
 
