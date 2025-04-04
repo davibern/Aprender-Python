@@ -89,6 +89,7 @@ Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyec
 * [Fibonacci](/98_Mini_Proyectos/fibonacci/)
 * [La Liga](/98_Mini_Proyectos/liga/readme.md)
 * [Número Primo](/98_Mini_Proyectos/numeros_primos/)
+* [Adivinar número](/98_Mini_Proyectos/adivina_numero/)
 
 ## Créditos y reconocimientos
 
