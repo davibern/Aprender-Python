@@ -90,6 +90,7 @@ Cuando te vayas sintiendo con confianza puedes intentar realizar los mini proyec
 * [La Liga](/98_Mini_Proyectos/liga/readme.md)
 * [Número Primo](/98_Mini_Proyectos/numeros_primos/)
 * [Adivinar número](/98_Mini_Proyectos/adivina_numero/)
+* [Generar contraseña](/98_Mini_Proyectos/generar_contrasena/)
 
 ## Créditos y reconocimientos
 
