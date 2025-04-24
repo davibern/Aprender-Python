@@ -1,6 +1,6 @@
 # Archivos CSV
 
-Los ficheros __CSV__ están separados normalmente por coma, aunque puedes encontrar otros separadores como el punto y coma, el tabulador o el espacio. Dependerá de cada órgano o empresa el separador que utilicen.
+Los ficheros __CSV__ están separados normalmente por coma, aunque puedes encontrar otros separadores como el punto y coma, el tabulador o el espacio. Dependerá de cada de uso, o requerimiento de cada empresa.
 
 Este fichero es de texto plano, por lo que sólo vas a encontrar en el un fichero con datos separados por el separador que hemos comentado. No vas a encontrar ninguna fórmula, ni ninguna imagen, ni ningún gráfico, ni ninguna tabla. Por lo tanto, si quieres trabajar con este tipo de ficheros.
 
@@ -38,14 +38,14 @@ list(csv_reader)
  ['Pedro', 'López', '35']]
 ```
 
-Igualmente podemos recorrer toda  la lista con un bucle __for__ y obtener cada línea del fichero de la siguiente forma:
+Igualmente podemos recorrer toda la lista con un bucle __for__ y obtener cada línea del fichero de la siguiente forma:
 
 ```Python
 for line in csv_reader:
     print(line)
 ```
 
-Y no sólo podemos leer un fichero __csv__, sino además, escribir en él.  Para ello, vamos a utilizar el método ```writer()``` para abrirlo en modo escritura, y luego añadimos el contenido con el método ```writerow()```.
+Y no sólo podemos leer un fichero __csv__, sino además, escribir en él. Para ello, vamos a utilizar el método ```writer()``` para abrirlo en modo escritura, y luego añadimos el contenido con el método ```writerow()```.
 
 Este método recibe como parámetro el fichero abierto en modo escritura y el separador que queremos utilizar. En este caso, vamos a utilizar la coma como separador.
 
